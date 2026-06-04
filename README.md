@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/thePankaj021/DSA_Practice/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/thePankaj021/DSA_Practice/tree/master/1330-reverse-subarray-to-maximize-array-value) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/thePankaj021/DSA_Practice/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [1345-jump-game-iv](https://github.com/thePankaj021/DSA_Practice/tree/master/1345-jump-game-iv) |
 ## Two Pointers
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/thePankaj021/DSA_Practice/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/thePankaj021/DSA_Practice/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/thePankaj021/DSA_Practice/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1345-jump-game-iv](https://github.com/thePankaj021/DSA_Practice/tree/master/1345-jump-game-iv) |
 ## String
 |  |
 | ------- |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/thePankaj021/DSA_Practice/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/thePankaj021/DSA_Practice/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/thePankaj021/DSA_Practice/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
+| [1345-jump-game-iv](https://github.com/thePankaj021/DSA_Practice/tree/master/1345-jump-game-iv) |
 ## Trie
 |  |
 | ------- |
