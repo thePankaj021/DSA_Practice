@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0041-first-missing-positive](https://github.com/thePankaj021/DSA_Practice/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/thePankaj021/DSA_Practice/tree/master/0051-n-queens) |
 | [0085-maximal-rectangle](https://github.com/thePankaj021/DSA_Practice/tree/master/0085-maximal-rectangle) |
+| [0135-candy](https://github.com/thePankaj021/DSA_Practice/tree/master/0135-candy) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/thePankaj021/DSA_Practice/tree/master/0044-wildcard-matching) |
+| [0135-candy](https://github.com/thePankaj021/DSA_Practice/tree/master/0135-candy) |
 ## Recursion
 |  |
 | ------- |
