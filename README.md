@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0016-3sum-closest](https://github.com/thePankaj021/DSA_Practice/tree/master/0016-3sum-closest) |
 | [0143-reorder-list](https://github.com/thePankaj021/DSA_Practice/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/thePankaj021/DSA_Practice/tree/master/0148-sort-list) |
+| [0165-compare-version-numbers](https://github.com/thePankaj021/DSA_Practice/tree/master/0165-compare-version-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0115-distinct-subsequences](https://github.com/thePankaj021/DSA_Practice/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/thePankaj021/DSA_Practice/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0140-word-break-ii) |
+| [0165-compare-version-numbers](https://github.com/thePankaj021/DSA_Practice/tree/master/0165-compare-version-numbers) |
 ## Backtracking
 |  |
 | ------- |
