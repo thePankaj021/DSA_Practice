@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0041-first-missing-positive](https://github.com/thePankaj021/DSA_Practice/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/thePankaj021/DSA_Practice/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/thePankaj021/DSA_Practice/tree/master/0051-n-queens) |
+| [0064-minimum-path-sum](https://github.com/thePankaj021/DSA_Practice/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/thePankaj021/DSA_Practice/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/thePankaj021/DSA_Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0135-candy](https://github.com/thePankaj021/DSA_Practice/tree/master/0135-candy) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/thePankaj021/DSA_Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/thePankaj021/DSA_Practice/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/thePankaj021/DSA_Practice/tree/master/0044-wildcard-matching) |
+| [0064-minimum-path-sum](https://github.com/thePankaj021/DSA_Practice/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/thePankaj021/DSA_Practice/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/thePankaj021/DSA_Practice/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/thePankaj021/DSA_Practice/tree/master/0115-distinct-subsequences) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/thePankaj021/DSA_Practice/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/thePankaj021/DSA_Practice/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
 |  |
