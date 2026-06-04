@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0165-compare-version-numbers](https://github.com/thePankaj021/DSA_Practice/tree/master/0165-compare-version-numbers) |
 | [0466-count-the-repetitions](https://github.com/thePankaj021/DSA_Practice/tree/master/0466-count-the-repetitions) |
 | [0475-heaters](https://github.com/thePankaj021/DSA_Practice/tree/master/0475-heaters) |
+| [0481-magical-string](https://github.com/thePankaj021/DSA_Practice/tree/master/0481-magical-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/thePankaj021/DSA_Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Sorting
 |  |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0467-unique-substrings-in-wraparound-string](https://github.com/thePankaj021/DSA_Practice/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0472-concatenated-words](https://github.com/thePankaj021/DSA_Practice/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/thePankaj021/DSA_Practice/tree/master/0474-ones-and-zeroes) |
+| [0481-magical-string](https://github.com/thePankaj021/DSA_Practice/tree/master/0481-magical-string) |
 | [0488-zuma-game](https://github.com/thePankaj021/DSA_Practice/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/thePankaj021/DSA_Practice/tree/master/0514-freedom-trail) |
 | [0564-find-the-closest-palindrome](https://github.com/thePankaj021/DSA_Practice/tree/master/0564-find-the-closest-palindrome) |
