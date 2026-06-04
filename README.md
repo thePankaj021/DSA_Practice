@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/thePankaj021/DSA_Practice/tree/master/1330-reverse-subarray-to-maximize-array-value) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/thePankaj021/DSA_Practice/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1345-jump-game-iv](https://github.com/thePankaj021/DSA_Practice/tree/master/1345-jump-game-iv) |
+| [1349-maximum-students-taking-exam](https://github.com/thePankaj021/DSA_Practice/tree/master/1349-maximum-students-taking-exam) |
 ## Two Pointers
 |  |
 | ------- |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1301-number-of-paths-with-max-score](https://github.com/thePankaj021/DSA_Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/thePankaj021/DSA_Practice/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/thePankaj021/DSA_Practice/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [1349-maximum-students-taking-exam](https://github.com/thePankaj021/DSA_Practice/tree/master/1349-maximum-students-taking-exam) |
 ## Stack
 |  |
 | ------- |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/thePankaj021/DSA_Practice/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/thePankaj021/DSA_Practice/tree/master/1301-number-of-paths-with-max-score) |
+| [1349-maximum-students-taking-exam](https://github.com/thePankaj021/DSA_Practice/tree/master/1349-maximum-students-taking-exam) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -601,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1125-smallest-sufficient-team](https://github.com/thePankaj021/DSA_Practice/tree/master/1125-smallest-sufficient-team) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/thePankaj021/DSA_Practice/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/thePankaj021/DSA_Practice/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1349-maximum-students-taking-exam](https://github.com/thePankaj021/DSA_Practice/tree/master/1349-maximum-students-taking-exam) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -692,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0996-number-of-squareful-arrays](https://github.com/thePankaj021/DSA_Practice/tree/master/0996-number-of-squareful-arrays) |
 | [1125-smallest-sufficient-team](https://github.com/thePankaj021/DSA_Practice/tree/master/1125-smallest-sufficient-team) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/thePankaj021/DSA_Practice/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1349-maximum-students-taking-exam](https://github.com/thePankaj021/DSA_Practice/tree/master/1349-maximum-students-taking-exam) |
 ## Segment Tree
 |  |
 | ------- |
