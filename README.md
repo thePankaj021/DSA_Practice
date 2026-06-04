@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0975-odd-even-jump](https://github.com/thePankaj021/DSA_Practice/tree/master/0975-odd-even-jump) |
 | [0980-unique-paths-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0980-unique-paths-iii) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/thePankaj021/DSA_Practice/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
+| [0992-subarrays-with-k-different-integers](https://github.com/thePankaj021/DSA_Practice/tree/master/0992-subarrays-with-k-different-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0924-minimize-malware-spread](https://github.com/thePankaj021/DSA_Practice/tree/master/0924-minimize-malware-spread) |
 | [0952-largest-component-size-by-common-factor](https://github.com/thePankaj021/DSA_Practice/tree/master/0952-largest-component-size-by-common-factor) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/thePankaj021/DSA_Practice/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
+| [0992-subarrays-with-k-different-integers](https://github.com/thePankaj021/DSA_Practice/tree/master/0992-subarrays-with-k-different-integers) |
 ## String
 |  |
 | ------- |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/thePankaj021/DSA_Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/thePankaj021/DSA_Practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/thePankaj021/DSA_Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/thePankaj021/DSA_Practice/tree/master/0992-subarrays-with-k-different-integers) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -563,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0229-majority-element-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/thePankaj021/DSA_Practice/tree/master/0299-bulls-and-cows) |
+| [0992-subarrays-with-k-different-integers](https://github.com/thePankaj021/DSA_Practice/tree/master/0992-subarrays-with-k-different-integers) |
 ## Design
 |  |
 | ------- |
