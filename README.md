@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0679-24-game](https://github.com/thePankaj021/DSA_Practice/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/thePankaj021/DSA_Practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0691-stickers-to-spell-word](https://github.com/thePankaj021/DSA_Practice/tree/master/0691-stickers-to-spell-word) |
+| [0699-falling-squares](https://github.com/thePankaj021/DSA_Practice/tree/master/0699-falling-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -391,4 +392,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0691-stickers-to-spell-word](https://github.com/thePankaj021/DSA_Practice/tree/master/0691-stickers-to-spell-word) |
+## Segment Tree
+|  |
+| ------- |
+| [0699-falling-squares](https://github.com/thePankaj021/DSA_Practice/tree/master/0699-falling-squares) |
+## Ordered Set
+|  |
+| ------- |
+| [0699-falling-squares](https://github.com/thePankaj021/DSA_Practice/tree/master/0699-falling-squares) |
 <!---LeetCode Topics End-->
