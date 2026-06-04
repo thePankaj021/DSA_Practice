@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0854-k-similar-strings](https://github.com/thePankaj021/DSA_Practice/tree/master/0854-k-similar-strings) |
 | [0899-orderly-queue](https://github.com/thePankaj021/DSA_Practice/tree/master/0899-orderly-queue) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/thePankaj021/DSA_Practice/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [0903-valid-permutations-for-di-sequence](https://github.com/thePankaj021/DSA_Practice/tree/master/0903-valid-permutations-for-di-sequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0879-profitable-schemes](https://github.com/thePankaj021/DSA_Practice/tree/master/0879-profitable-schemes) |
 | [0887-super-egg-drop](https://github.com/thePankaj021/DSA_Practice/tree/master/0887-super-egg-drop) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/thePankaj021/DSA_Practice/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [0903-valid-permutations-for-di-sequence](https://github.com/thePankaj021/DSA_Practice/tree/master/0903-valid-permutations-for-di-sequence) |
 ## Stack
 |  |
 | ------- |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/thePankaj021/DSA_Practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0732-my-calendar-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0732-my-calendar-iii) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/thePankaj021/DSA_Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0903-valid-permutations-for-di-sequence](https://github.com/thePankaj021/DSA_Practice/tree/master/0903-valid-permutations-for-di-sequence) |
 ## Enumeration
 |  |
 | ------- |
