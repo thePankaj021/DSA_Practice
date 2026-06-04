@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1223-dice-roll-simulation](https://github.com/thePankaj021/DSA_Practice/tree/master/1223-dice-roll-simulation) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/thePankaj021/DSA_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1250-check-if-it-is-a-good-array](https://github.com/thePankaj021/DSA_Practice/tree/master/1250-check-if-it-is-a-good-array) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/thePankaj021/DSA_Practice/tree/master/1255-maximum-score-words-formed-by-letters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1036-escape-a-large-maze](https://github.com/thePankaj021/DSA_Practice/tree/master/1036-escape-a-large-maze) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/thePankaj021/DSA_Practice/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/thePankaj021/DSA_Practice/tree/master/1178-number-of-valid-words-for-each-puzzle) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/thePankaj021/DSA_Practice/tree/master/1255-maximum-score-words-formed-by-letters) |
 ## String
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0972-equal-rational-numbers](https://github.com/thePankaj021/DSA_Practice/tree/master/0972-equal-rational-numbers) |
 | [1032-stream-of-characters](https://github.com/thePankaj021/DSA_Practice/tree/master/1032-stream-of-characters) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/thePankaj021/DSA_Practice/tree/master/1178-number-of-valid-words-for-each-puzzle) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/thePankaj021/DSA_Practice/tree/master/1255-maximum-score-words-formed-by-letters) |
 ## Backtracking
 |  |
 | ------- |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0773-sliding-puzzle](https://github.com/thePankaj021/DSA_Practice/tree/master/0773-sliding-puzzle) |
 | [0980-unique-paths-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0980-unique-paths-iii) |
 | [0996-number-of-squareful-arrays](https://github.com/thePankaj021/DSA_Practice/tree/master/0996-number-of-squareful-arrays) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/thePankaj021/DSA_Practice/tree/master/1255-maximum-score-words-formed-by-letters) |
 ## Linked List
 |  |
 | ------- |
@@ -314,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1187-make-array-strictly-increasing](https://github.com/thePankaj021/DSA_Practice/tree/master/1187-make-array-strictly-increasing) |
 | [1223-dice-roll-simulation](https://github.com/thePankaj021/DSA_Practice/tree/master/1223-dice-roll-simulation) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/thePankaj021/DSA_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/thePankaj021/DSA_Practice/tree/master/1255-maximum-score-words-formed-by-letters) |
 ## Stack
 |  |
 | ------- |
@@ -572,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0996-number-of-squareful-arrays](https://github.com/thePankaj021/DSA_Practice/tree/master/0996-number-of-squareful-arrays) |
 | [1125-smallest-sufficient-team](https://github.com/thePankaj021/DSA_Practice/tree/master/1125-smallest-sufficient-team) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/thePankaj021/DSA_Practice/tree/master/1178-number-of-valid-words-for-each-puzzle) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/thePankaj021/DSA_Practice/tree/master/1255-maximum-score-words-formed-by-letters) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -615,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/thePankaj021/DSA_Practice/tree/master/0299-bulls-and-cows) |
 | [0992-subarrays-with-k-different-integers](https://github.com/thePankaj021/DSA_Practice/tree/master/0992-subarrays-with-k-different-integers) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/thePankaj021/DSA_Practice/tree/master/1255-maximum-score-words-formed-by-letters) |
 ## Design
 |  |
 | ------- |
@@ -660,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0943-find-the-shortest-superstring](https://github.com/thePankaj021/DSA_Practice/tree/master/0943-find-the-shortest-superstring) |
 | [0996-number-of-squareful-arrays](https://github.com/thePankaj021/DSA_Practice/tree/master/0996-number-of-squareful-arrays) |
 | [1125-smallest-sufficient-team](https://github.com/thePankaj021/DSA_Practice/tree/master/1125-smallest-sufficient-team) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/thePankaj021/DSA_Practice/tree/master/1255-maximum-score-words-formed-by-letters) |
 ## Segment Tree
 |  |
 | ------- |
