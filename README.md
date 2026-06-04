@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0730-count-different-palindromic-subsequences](https://github.com/thePankaj021/DSA_Practice/tree/master/0730-count-different-palindromic-subsequences) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/thePankaj021/DSA_Practice/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0805-split-array-with-same-average](https://github.com/thePankaj021/DSA_Practice/tree/master/0805-split-array-with-same-average) |
+| [0818-race-car](https://github.com/thePankaj021/DSA_Practice/tree/master/0818-race-car) |
 ## Stack
 |  |
 | ------- |
