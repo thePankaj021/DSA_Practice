@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0719-find-k-th-smallest-pair-distance](https://github.com/thePankaj021/DSA_Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0741-cherry-pickup](https://github.com/thePankaj021/DSA_Practice/tree/master/0741-cherry-pickup) |
 | [0745-prefix-and-suffix-search](https://github.com/thePankaj021/DSA_Practice/tree/master/0745-prefix-and-suffix-search) |
+| [0749-contain-virus](https://github.com/thePankaj021/DSA_Practice/tree/master/0749-contain-virus) |
 | [0778-swim-in-rising-water](https://github.com/thePankaj021/DSA_Practice/tree/master/0778-swim-in-rising-water) |
 | [0782-transform-to-chessboard](https://github.com/thePankaj021/DSA_Practice/tree/master/0782-transform-to-chessboard) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/thePankaj021/DSA_Practice/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0304-range-sum-query-2d-immutable](https://github.com/thePankaj021/DSA_Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/thePankaj021/DSA_Practice/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0741-cherry-pickup](https://github.com/thePankaj021/DSA_Practice/tree/master/0741-cherry-pickup) |
+| [0749-contain-virus](https://github.com/thePankaj021/DSA_Practice/tree/master/0749-contain-virus) |
 | [0778-swim-in-rising-water](https://github.com/thePankaj021/DSA_Practice/tree/master/0778-swim-in-rising-water) |
 | [0782-transform-to-chessboard](https://github.com/thePankaj021/DSA_Practice/tree/master/0782-transform-to-chessboard) |
 | [0803-bricks-falling-when-hit](https://github.com/thePankaj021/DSA_Practice/tree/master/0803-bricks-falling-when-hit) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0514-freedom-trail](https://github.com/thePankaj021/DSA_Practice/tree/master/0514-freedom-trail) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/thePankaj021/DSA_Practice/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0685-redundant-connection-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0685-redundant-connection-ii) |
+| [0749-contain-virus](https://github.com/thePankaj021/DSA_Practice/tree/master/0749-contain-virus) |
 | [0778-swim-in-rising-water](https://github.com/thePankaj021/DSA_Practice/tree/master/0778-swim-in-rising-water) |
 | [0815-bus-routes](https://github.com/thePankaj021/DSA_Practice/tree/master/0815-bus-routes) |
 | [0827-making-a-large-island](https://github.com/thePankaj021/DSA_Practice/tree/master/0827-making-a-large-island) |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0472-concatenated-words](https://github.com/thePankaj021/DSA_Practice/tree/master/0472-concatenated-words) |
 | [0514-freedom-trail](https://github.com/thePankaj021/DSA_Practice/tree/master/0514-freedom-trail) |
 | [0685-redundant-connection-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0685-redundant-connection-ii) |
+| [0749-contain-virus](https://github.com/thePankaj021/DSA_Practice/tree/master/0749-contain-virus) |
 | [0778-swim-in-rising-water](https://github.com/thePankaj021/DSA_Practice/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/thePankaj021/DSA_Practice/tree/master/0827-making-a-large-island) |
 | [0834-sum-of-distances-in-tree](https://github.com/thePankaj021/DSA_Practice/tree/master/0834-sum-of-distances-in-tree) |
@@ -634,4 +638,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0952-largest-component-size-by-common-factor](https://github.com/thePankaj021/DSA_Practice/tree/master/0952-largest-component-size-by-common-factor) |
+## Simulation
+|  |
+| ------- |
+| [0749-contain-virus](https://github.com/thePankaj021/DSA_Practice/tree/master/0749-contain-virus) |
 <!---LeetCode Topics End-->
