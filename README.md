@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1250-check-if-it-is-a-good-array](https://github.com/thePankaj021/DSA_Practice/tree/master/1250-check-if-it-is-a-good-array) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/thePankaj021/DSA_Practice/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/thePankaj021/DSA_Practice/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/1289-minimum-falling-path-sum-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1223-dice-roll-simulation](https://github.com/thePankaj021/DSA_Practice/tree/master/1223-dice-roll-simulation) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/thePankaj021/DSA_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/thePankaj021/DSA_Practice/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/1289-minimum-falling-path-sum-ii) |
 ## Stack
 |  |
 | ------- |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/thePankaj021/DSA_Practice/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/thePankaj021/DSA_Practice/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/thePankaj021/DSA_Practice/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/1289-minimum-falling-path-sum-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
