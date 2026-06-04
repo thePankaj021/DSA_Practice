@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0741-cherry-pickup](https://github.com/thePankaj021/DSA_Practice/tree/master/0741-cherry-pickup) |
 | [0745-prefix-and-suffix-search](https://github.com/thePankaj021/DSA_Practice/tree/master/0745-prefix-and-suffix-search) |
 | [0749-contain-virus](https://github.com/thePankaj021/DSA_Practice/tree/master/0749-contain-virus) |
+| [0757-set-intersection-size-at-least-two](https://github.com/thePankaj021/DSA_Practice/tree/master/0757-set-intersection-size-at-least-two) |
 | [0778-swim-in-rising-water](https://github.com/thePankaj021/DSA_Practice/tree/master/0778-swim-in-rising-water) |
 | [0782-transform-to-chessboard](https://github.com/thePankaj021/DSA_Practice/tree/master/0782-transform-to-chessboard) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/thePankaj021/DSA_Practice/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0710-random-pick-with-blacklist](https://github.com/thePankaj021/DSA_Practice/tree/master/0710-random-pick-with-blacklist) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/thePankaj021/DSA_Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/thePankaj021/DSA_Practice/tree/master/0726-number-of-atoms) |
+| [0757-set-intersection-size-at-least-two](https://github.com/thePankaj021/DSA_Practice/tree/master/0757-set-intersection-size-at-least-two) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/thePankaj021/DSA_Practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0891-sum-of-subsequence-widths](https://github.com/thePankaj021/DSA_Practice/tree/master/0891-sum-of-subsequence-widths) |
 | [0899-orderly-queue](https://github.com/thePankaj021/DSA_Practice/tree/master/0899-orderly-queue) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0517-super-washing-machines](https://github.com/thePankaj021/DSA_Practice/tree/master/0517-super-washing-machines) |
 | [0630-course-schedule-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/thePankaj021/DSA_Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0757-set-intersection-size-at-least-two](https://github.com/thePankaj021/DSA_Practice/tree/master/0757-set-intersection-size-at-least-two) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/thePankaj021/DSA_Practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/thePankaj021/DSA_Practice/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0936-stamping-the-sequence](https://github.com/thePankaj021/DSA_Practice/tree/master/0936-stamping-the-sequence) |
