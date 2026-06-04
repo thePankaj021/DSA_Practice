@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0483-smallest-good-base](https://github.com/thePankaj021/DSA_Practice/tree/master/0483-smallest-good-base) |
 | [0564-find-the-closest-palindrome](https://github.com/thePankaj021/DSA_Practice/tree/master/0564-find-the-closest-palindrome) |
 | [0587-erect-the-fence](https://github.com/thePankaj021/DSA_Practice/tree/master/0587-erect-the-fence) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/thePankaj021/DSA_Practice/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 ## Matrix
 |  |
 | ------- |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thePankaj021/DSA_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0483-smallest-good-base](https://github.com/thePankaj021/DSA_Practice/tree/master/0483-smallest-good-base) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/thePankaj021/DSA_Practice/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 ## Tree
 |  |
 | ------- |
