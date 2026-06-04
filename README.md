@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0481-magical-string](https://github.com/thePankaj021/DSA_Practice/tree/master/0481-magical-string) |
 | [0488-zuma-game](https://github.com/thePankaj021/DSA_Practice/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/thePankaj021/DSA_Practice/tree/master/0514-freedom-trail) |
+| [0516-longest-palindromic-subsequence](https://github.com/thePankaj021/DSA_Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0564-find-the-closest-palindrome](https://github.com/thePankaj021/DSA_Practice/tree/master/0564-find-the-closest-palindrome) |
 | [0664-strange-printer](https://github.com/thePankaj021/DSA_Practice/tree/master/0664-strange-printer) |
 | [0691-stickers-to-spell-word](https://github.com/thePankaj021/DSA_Practice/tree/master/0691-stickers-to-spell-word) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0474-ones-and-zeroes](https://github.com/thePankaj021/DSA_Practice/tree/master/0474-ones-and-zeroes) |
 | [0488-zuma-game](https://github.com/thePankaj021/DSA_Practice/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/thePankaj021/DSA_Practice/tree/master/0514-freedom-trail) |
+| [0516-longest-palindromic-subsequence](https://github.com/thePankaj021/DSA_Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0546-remove-boxes](https://github.com/thePankaj021/DSA_Practice/tree/master/0546-remove-boxes) |
 | [0552-student-attendance-record-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0552-student-attendance-record-ii) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/thePankaj021/DSA_Practice/tree/master/0600-non-negative-integers-without-consecutive-ones) |
