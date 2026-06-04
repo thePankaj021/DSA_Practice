@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0827-making-a-large-island](https://github.com/thePankaj021/DSA_Practice/tree/master/0827-making-a-large-island) |
 | [0839-similar-string-groups](https://github.com/thePankaj021/DSA_Practice/tree/master/0839-similar-string-groups) |
 | [0850-rectangle-area-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0850-rectangle-area-ii) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/thePankaj021/DSA_Practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0710-random-pick-with-blacklist](https://github.com/thePankaj021/DSA_Practice/tree/master/0710-random-pick-with-blacklist) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/thePankaj021/DSA_Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/thePankaj021/DSA_Practice/tree/master/0726-number-of-atoms) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/thePankaj021/DSA_Practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
 ## Hash Table
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/thePankaj021/DSA_Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/thePankaj021/DSA_Practice/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0778-swim-in-rising-water](https://github.com/thePankaj021/DSA_Practice/tree/master/0778-swim-in-rising-water) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/thePankaj021/DSA_Practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
 ## Merge Sort
 |  |
 | ------- |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0517-super-washing-machines](https://github.com/thePankaj021/DSA_Practice/tree/master/0517-super-washing-machines) |
 | [0630-course-schedule-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/thePankaj021/DSA_Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/thePankaj021/DSA_Practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
 ## Recursion
 |  |
 | ------- |
