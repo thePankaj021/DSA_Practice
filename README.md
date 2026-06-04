@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0864-shortest-path-to-get-all-keys](https://github.com/thePankaj021/DSA_Practice/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/thePankaj021/DSA_Practice/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0879-profitable-schemes](https://github.com/thePankaj021/DSA_Practice/tree/master/0879-profitable-schemes) |
+| [0891-sum-of-subsequence-widths](https://github.com/thePankaj021/DSA_Practice/tree/master/0891-sum-of-subsequence-widths) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0719-find-k-th-smallest-pair-distance](https://github.com/thePankaj021/DSA_Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/thePankaj021/DSA_Practice/tree/master/0726-number-of-atoms) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/thePankaj021/DSA_Practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0891-sum-of-subsequence-widths](https://github.com/thePankaj021/DSA_Practice/tree/master/0891-sum-of-subsequence-widths) |
 ## Hash Table
 |  |
 | ------- |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0829-consecutive-numbers-sum](https://github.com/thePankaj021/DSA_Practice/tree/master/0829-consecutive-numbers-sum) |
 | [0878-nth-magical-number](https://github.com/thePankaj021/DSA_Practice/tree/master/0878-nth-magical-number) |
 | [0887-super-egg-drop](https://github.com/thePankaj021/DSA_Practice/tree/master/0887-super-egg-drop) |
+| [0891-sum-of-subsequence-widths](https://github.com/thePankaj021/DSA_Practice/tree/master/0891-sum-of-subsequence-widths) |
 ## Matrix
 |  |
 | ------- |
