@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1157-online-majority-element-in-subarray](https://github.com/thePankaj021/DSA_Practice/tree/master/1157-online-majority-element-in-subarray) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/thePankaj021/DSA_Practice/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1187-make-array-strictly-increasing](https://github.com/thePankaj021/DSA_Practice/tree/master/1187-make-array-strictly-increasing) |
+| [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/thePankaj021/DSA_Practice/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0864-shortest-path-to-get-all-keys](https://github.com/thePankaj021/DSA_Practice/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0980-unique-paths-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0980-unique-paths-iii) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/thePankaj021/DSA_Practice/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/thePankaj021/DSA_Practice/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0864-shortest-path-to-get-all-keys](https://github.com/thePankaj021/DSA_Practice/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0924-minimize-malware-spread](https://github.com/thePankaj021/DSA_Practice/tree/master/0924-minimize-malware-spread) |
 | [1036-escape-a-large-maze](https://github.com/thePankaj021/DSA_Practice/tree/master/1036-escape-a-large-maze) |
+| [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/thePankaj021/DSA_Practice/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 ## Trie
 |  |
 | ------- |
