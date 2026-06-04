@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0016-3sum-closest](https://github.com/thePankaj021/DSA_Practice/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/thePankaj021/DSA_Practice/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/thePankaj021/DSA_Practice/tree/master/0051-n-queens) |
+| [0085-maximal-rectangle](https://github.com/thePankaj021/DSA_Practice/tree/master/0085-maximal-rectangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,10 +57,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/thePankaj021/DSA_Practice/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/thePankaj021/DSA_Practice/tree/master/0044-wildcard-matching) |
+| [0085-maximal-rectangle](https://github.com/thePankaj021/DSA_Practice/tree/master/0085-maximal-rectangle) |
 ## Stack
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/thePankaj021/DSA_Practice/tree/master/0032-longest-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/thePankaj021/DSA_Practice/tree/master/0085-maximal-rectangle) |
 ## Greedy
 |  |
 | ------- |
@@ -73,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/thePankaj021/DSA_Practice/tree/master/0060-permutation-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/thePankaj021/DSA_Practice/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/thePankaj021/DSA_Practice/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
