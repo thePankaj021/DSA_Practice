@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1255-maximum-score-words-formed-by-letters](https://github.com/thePankaj021/DSA_Practice/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/thePankaj021/DSA_Practice/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1298-maximum-candies-you-can-get-from-boxes](https://github.com/thePankaj021/DSA_Practice/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1036-escape-a-large-maze](https://github.com/thePankaj021/DSA_Practice/tree/master/1036-escape-a-large-maze) |
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/thePankaj021/DSA_Practice/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/thePankaj021/DSA_Practice/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
+| [1298-maximum-candies-you-can-get-from-boxes](https://github.com/thePankaj021/DSA_Practice/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 ## Trie
 |  |
 | ------- |
@@ -665,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/thePankaj021/DSA_Practice/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [0913-cat-and-mouse](https://github.com/thePankaj021/DSA_Practice/tree/master/0913-cat-and-mouse) |
 | [0924-minimize-malware-spread](https://github.com/thePankaj021/DSA_Practice/tree/master/0924-minimize-malware-spread) |
+| [1298-maximum-candies-you-can-get-from-boxes](https://github.com/thePankaj021/DSA_Practice/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 ## Bitmask
 |  |
 | ------- |
