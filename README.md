@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0587-erect-the-fence](https://github.com/thePankaj021/DSA_Practice/tree/master/0587-erect-the-fence) |
 | [0630-course-schedule-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/thePankaj021/DSA_Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/thePankaj021/DSA_Practice/tree/master/0675-cut-off-trees-for-golf-event) |
 ## Two Pointers
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0502-ipo](https://github.com/thePankaj021/DSA_Practice/tree/master/0502-ipo) |
 | [0630-course-schedule-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/thePankaj021/DSA_Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/thePankaj021/DSA_Practice/tree/master/0675-cut-off-trees-for-golf-event) |
 ## Merge Sort
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0085-maximal-rectangle](https://github.com/thePankaj021/DSA_Practice/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/thePankaj021/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/thePankaj021/DSA_Practice/tree/master/0304-range-sum-query-2d-immutable) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/thePankaj021/DSA_Practice/tree/master/0675-cut-off-trees-for-golf-event) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/thePankaj021/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0488-zuma-game](https://github.com/thePankaj021/DSA_Practice/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/thePankaj021/DSA_Practice/tree/master/0514-freedom-trail) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/thePankaj021/DSA_Practice/tree/master/0675-cut-off-trees-for-golf-event) |
 ## Trie
 |  |
 | ------- |
