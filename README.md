@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0710-random-pick-with-blacklist](https://github.com/thePankaj021/DSA_Practice/tree/master/0710-random-pick-with-blacklist) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/thePankaj021/DSA_Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0741-cherry-pickup](https://github.com/thePankaj021/DSA_Practice/tree/master/0741-cherry-pickup) |
+| [0745-prefix-and-suffix-search](https://github.com/thePankaj021/DSA_Practice/tree/master/0745-prefix-and-suffix-search) |
 | [0778-swim-in-rising-water](https://github.com/thePankaj021/DSA_Practice/tree/master/0778-swim-in-rising-water) |
 | [0782-transform-to-chessboard](https://github.com/thePankaj021/DSA_Practice/tree/master/0782-transform-to-chessboard) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/thePankaj021/DSA_Practice/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0691-stickers-to-spell-word](https://github.com/thePankaj021/DSA_Practice/tree/master/0691-stickers-to-spell-word) |
 | [0710-random-pick-with-blacklist](https://github.com/thePankaj021/DSA_Practice/tree/master/0710-random-pick-with-blacklist) |
 | [0726-number-of-atoms](https://github.com/thePankaj021/DSA_Practice/tree/master/0726-number-of-atoms) |
+| [0745-prefix-and-suffix-search](https://github.com/thePankaj021/DSA_Practice/tree/master/0745-prefix-and-suffix-search) |
 | [0805-split-array-with-same-average](https://github.com/thePankaj021/DSA_Practice/tree/master/0805-split-array-with-same-average) |
 | [0815-bus-routes](https://github.com/thePankaj021/DSA_Practice/tree/master/0815-bus-routes) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/thePankaj021/DSA_Practice/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0691-stickers-to-spell-word](https://github.com/thePankaj021/DSA_Practice/tree/master/0691-stickers-to-spell-word) |
 | [0726-number-of-atoms](https://github.com/thePankaj021/DSA_Practice/tree/master/0726-number-of-atoms) |
 | [0730-count-different-palindromic-subsequences](https://github.com/thePankaj021/DSA_Practice/tree/master/0730-count-different-palindromic-subsequences) |
+| [0745-prefix-and-suffix-search](https://github.com/thePankaj021/DSA_Practice/tree/master/0745-prefix-and-suffix-search) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/thePankaj021/DSA_Practice/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0839-similar-string-groups](https://github.com/thePankaj021/DSA_Practice/tree/master/0839-similar-string-groups) |
 | [0854-k-similar-strings](https://github.com/thePankaj021/DSA_Practice/tree/master/0854-k-similar-strings) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0140-word-break-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0140-word-break-ii) |
 | [0472-concatenated-words](https://github.com/thePankaj021/DSA_Practice/tree/master/0472-concatenated-words) |
+| [0745-prefix-and-suffix-search](https://github.com/thePankaj021/DSA_Practice/tree/master/0745-prefix-and-suffix-search) |
 ## Memoization
 |  |
 | ------- |
@@ -540,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0304-range-sum-query-2d-immutable](https://github.com/thePankaj021/DSA_Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0715-range-module](https://github.com/thePankaj021/DSA_Practice/tree/master/0715-range-module) |
 | [0732-my-calendar-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0732-my-calendar-iii) |
+| [0745-prefix-and-suffix-search](https://github.com/thePankaj021/DSA_Practice/tree/master/0745-prefix-and-suffix-search) |
 | [0895-maximum-frequency-stack](https://github.com/thePankaj021/DSA_Practice/tree/master/0895-maximum-frequency-stack) |
 ## Prefix Sum
 |  |
