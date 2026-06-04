@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0664-strange-printer](https://github.com/thePankaj021/DSA_Practice/tree/master/0664-strange-printer) |
 | [0691-stickers-to-spell-word](https://github.com/thePankaj021/DSA_Practice/tree/master/0691-stickers-to-spell-word) |
 | [0726-number-of-atoms](https://github.com/thePankaj021/DSA_Practice/tree/master/0726-number-of-atoms) |
+| [0730-count-different-palindromic-subsequences](https://github.com/thePankaj021/DSA_Practice/tree/master/0730-count-different-palindromic-subsequences) |
 ## Backtracking
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0664-strange-printer](https://github.com/thePankaj021/DSA_Practice/tree/master/0664-strange-printer) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/thePankaj021/DSA_Practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0691-stickers-to-spell-word](https://github.com/thePankaj021/DSA_Practice/tree/master/0691-stickers-to-spell-word) |
+| [0730-count-different-palindromic-subsequences](https://github.com/thePankaj021/DSA_Practice/tree/master/0730-count-different-palindromic-subsequences) |
 ## Stack
 |  |
 | ------- |
