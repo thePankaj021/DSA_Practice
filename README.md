@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/thePankaj021/DSA_Practice/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0679-24-game](https://github.com/thePankaj021/DSA_Practice/tree/master/0679-24-game) |
 | [0710-random-pick-with-blacklist](https://github.com/thePankaj021/DSA_Practice/tree/master/0710-random-pick-with-blacklist) |
+| [0780-reaching-points](https://github.com/thePankaj021/DSA_Practice/tree/master/0780-reaching-points) |
 ## Matrix
 |  |
 | ------- |
