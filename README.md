@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0223-rectangle-area](https://github.com/thePankaj021/DSA_Practice/tree/master/0223-rectangle-area) |
 | [0227-basic-calculator-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/thePankaj021/DSA_Practice/tree/master/0241-different-ways-to-add-parentheses) |
+| [0479-largest-palindrome-product](https://github.com/thePankaj021/DSA_Practice/tree/master/0479-largest-palindrome-product) |
 ## Matrix
 |  |
 | ------- |
@@ -311,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/thePankaj021/DSA_Practice/tree/master/0304-range-sum-query-2d-immutable) |
+## Enumeration
+|  |
+| ------- |
+| [0479-largest-palindrome-product](https://github.com/thePankaj021/DSA_Practice/tree/master/0479-largest-palindrome-product) |
 <!---LeetCode Topics End-->
