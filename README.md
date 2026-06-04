@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0051-n-queens](https://github.com/thePankaj021/DSA_Practice/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/thePankaj021/DSA_Practice/tree/master/0077-combinations) |
+| [0089-gray-code](https://github.com/thePankaj021/DSA_Practice/tree/master/0089-gray-code) |
 | [0113-path-sum-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0113-path-sum-ii) |
 | [0140-word-break-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0140-word-break-ii) |
 ## Linked List
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0029-divide-two-integers](https://github.com/thePankaj021/DSA_Practice/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/thePankaj021/DSA_Practice/tree/master/0060-permutation-sequence) |
+| [0089-gray-code](https://github.com/thePankaj021/DSA_Practice/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/thePankaj021/DSA_Practice/tree/master/0149-max-points-on-a-line) |
 ## Matrix
 |  |
@@ -182,4 +184,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/thePankaj021/DSA_Practice/tree/master/0029-divide-two-integers) |
+| [0089-gray-code](https://github.com/thePankaj021/DSA_Practice/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
