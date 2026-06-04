@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1363-largest-multiple-of-three](https://github.com/thePankaj021/DSA_Practice/tree/master/1363-largest-multiple-of-three) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/thePankaj021/DSA_Practice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1383-maximum-performance-of-a-team](https://github.com/thePankaj021/DSA_Practice/tree/master/1383-maximum-performance-of-a-team) |
+| [1402-reducing-dishes](https://github.com/thePankaj021/DSA_Practice/tree/master/1402-reducing-dishes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1235-maximum-profit-in-job-scheduling](https://github.com/thePankaj021/DSA_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1363-largest-multiple-of-three](https://github.com/thePankaj021/DSA_Practice/tree/master/1363-largest-multiple-of-three) |
 | [1383-maximum-performance-of-a-team](https://github.com/thePankaj021/DSA_Practice/tree/master/1383-maximum-performance-of-a-team) |
+| [1402-reducing-dishes](https://github.com/thePankaj021/DSA_Practice/tree/master/1402-reducing-dishes) |
 ## Hash Table
 |  |
 | ------- |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/thePankaj021/DSA_Practice/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1349-maximum-students-taking-exam](https://github.com/thePankaj021/DSA_Practice/tree/master/1349-maximum-students-taking-exam) |
 | [1363-largest-multiple-of-three](https://github.com/thePankaj021/DSA_Practice/tree/master/1363-largest-multiple-of-three) |
+| [1402-reducing-dishes](https://github.com/thePankaj021/DSA_Practice/tree/master/1402-reducing-dishes) |
 ## Stack
 |  |
 | ------- |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/thePankaj021/DSA_Practice/tree/master/1330-reverse-subarray-to-maximize-array-value) |
 | [1363-largest-multiple-of-three](https://github.com/thePankaj021/DSA_Practice/tree/master/1363-largest-multiple-of-three) |
 | [1383-maximum-performance-of-a-team](https://github.com/thePankaj021/DSA_Practice/tree/master/1383-maximum-performance-of-a-team) |
+| [1402-reducing-dishes](https://github.com/thePankaj021/DSA_Practice/tree/master/1402-reducing-dishes) |
 ## Recursion
 |  |
 | ------- |
