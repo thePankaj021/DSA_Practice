@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0046-permutations](https://github.com/thePankaj021/DSA_Practice/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/thePankaj021/DSA_Practice/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/thePankaj021/DSA_Practice/tree/master/0064-minimum-path-sum) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/thePankaj021/DSA_Practice/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/thePankaj021/DSA_Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0135-candy](https://github.com/thePankaj021/DSA_Practice/tree/master/0135-candy) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thePankaj021/DSA_Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Tree
 |  |
