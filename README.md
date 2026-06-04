@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0924-minimize-malware-spread](https://github.com/thePankaj021/DSA_Practice/tree/master/0924-minimize-malware-spread) |
 | [0927-three-equal-parts](https://github.com/thePankaj021/DSA_Practice/tree/master/0927-three-equal-parts) |
 | [0943-find-the-shortest-superstring](https://github.com/thePankaj021/DSA_Practice/tree/master/0943-find-the-shortest-superstring) |
+| [0952-largest-component-size-by-common-factor](https://github.com/thePankaj021/DSA_Practice/tree/master/0952-largest-component-size-by-common-factor) |
 ## Two Pointers
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0854-k-similar-strings](https://github.com/thePankaj021/DSA_Practice/tree/master/0854-k-similar-strings) |
 | [0895-maximum-frequency-stack](https://github.com/thePankaj021/DSA_Practice/tree/master/0895-maximum-frequency-stack) |
 | [0924-minimize-malware-spread](https://github.com/thePankaj021/DSA_Practice/tree/master/0924-minimize-malware-spread) |
+| [0952-largest-component-size-by-common-factor](https://github.com/thePankaj021/DSA_Practice/tree/master/0952-largest-component-size-by-common-factor) |
 ## String
 |  |
 | ------- |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0913-cat-and-mouse](https://github.com/thePankaj021/DSA_Practice/tree/master/0913-cat-and-mouse) |
 | [0920-number-of-music-playlists](https://github.com/thePankaj021/DSA_Practice/tree/master/0920-number-of-music-playlists) |
 | [0927-three-equal-parts](https://github.com/thePankaj021/DSA_Practice/tree/master/0927-three-equal-parts) |
+| [0952-largest-component-size-by-common-factor](https://github.com/thePankaj021/DSA_Practice/tree/master/0952-largest-component-size-by-common-factor) |
 ## Matrix
 |  |
 | ------- |
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0827-making-a-large-island](https://github.com/thePankaj021/DSA_Practice/tree/master/0827-making-a-large-island) |
 | [0839-similar-string-groups](https://github.com/thePankaj021/DSA_Practice/tree/master/0839-similar-string-groups) |
 | [0924-minimize-malware-spread](https://github.com/thePankaj021/DSA_Practice/tree/master/0924-minimize-malware-spread) |
+| [0952-largest-component-size-by-common-factor](https://github.com/thePankaj021/DSA_Practice/tree/master/0952-largest-component-size-by-common-factor) |
 ## Counting
 |  |
 | ------- |
@@ -598,4 +602,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0920-number-of-music-playlists](https://github.com/thePankaj021/DSA_Practice/tree/master/0920-number-of-music-playlists) |
+## Number Theory
+|  |
+| ------- |
+| [0952-largest-component-size-by-common-factor](https://github.com/thePankaj021/DSA_Practice/tree/master/0952-largest-component-size-by-common-factor) |
 <!---LeetCode Topics End-->
