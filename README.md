@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0891-sum-of-subsequence-widths](https://github.com/thePankaj021/DSA_Practice/tree/master/0891-sum-of-subsequence-widths) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/thePankaj021/DSA_Practice/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0924-minimize-malware-spread](https://github.com/thePankaj021/DSA_Practice/tree/master/0924-minimize-malware-spread) |
+| [0927-three-equal-parts](https://github.com/thePankaj021/DSA_Practice/tree/master/0927-three-equal-parts) |
 ## Two Pointers
 |  |
 | ------- |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0906-super-palindromes](https://github.com/thePankaj021/DSA_Practice/tree/master/0906-super-palindromes) |
 | [0913-cat-and-mouse](https://github.com/thePankaj021/DSA_Practice/tree/master/0913-cat-and-mouse) |
 | [0920-number-of-music-playlists](https://github.com/thePankaj021/DSA_Practice/tree/master/0920-number-of-music-playlists) |
+| [0927-three-equal-parts](https://github.com/thePankaj021/DSA_Practice/tree/master/0927-three-equal-parts) |
 ## Matrix
 |  |
 | ------- |
