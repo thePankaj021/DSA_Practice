@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0782-transform-to-chessboard](https://github.com/thePankaj021/DSA_Practice/tree/master/0782-transform-to-chessboard) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/thePankaj021/DSA_Practice/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0803-bricks-falling-when-hit](https://github.com/thePankaj021/DSA_Practice/tree/master/0803-bricks-falling-when-hit) |
+| [0805-split-array-with-same-average](https://github.com/thePankaj021/DSA_Practice/tree/master/0805-split-array-with-same-average) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0691-stickers-to-spell-word](https://github.com/thePankaj021/DSA_Practice/tree/master/0691-stickers-to-spell-word) |
 | [0710-random-pick-with-blacklist](https://github.com/thePankaj021/DSA_Practice/tree/master/0710-random-pick-with-blacklist) |
 | [0726-number-of-atoms](https://github.com/thePankaj021/DSA_Practice/tree/master/0726-number-of-atoms) |
+| [0805-split-array-with-same-average](https://github.com/thePankaj021/DSA_Practice/tree/master/0805-split-array-with-same-average) |
 ## String
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0691-stickers-to-spell-word](https://github.com/thePankaj021/DSA_Practice/tree/master/0691-stickers-to-spell-word) |
 | [0730-count-different-palindromic-subsequences](https://github.com/thePankaj021/DSA_Practice/tree/master/0730-count-different-palindromic-subsequences) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/thePankaj021/DSA_Practice/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
+| [0805-split-array-with-same-average](https://github.com/thePankaj021/DSA_Practice/tree/master/0805-split-array-with-same-average) |
 ## Stack
 |  |
 | ------- |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0780-reaching-points](https://github.com/thePankaj021/DSA_Practice/tree/master/0780-reaching-points) |
 | [0782-transform-to-chessboard](https://github.com/thePankaj021/DSA_Practice/tree/master/0782-transform-to-chessboard) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/thePankaj021/DSA_Practice/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
+| [0805-split-array-with-same-average](https://github.com/thePankaj021/DSA_Practice/tree/master/0805-split-array-with-same-average) |
 ## Matrix
 |  |
 | ------- |
@@ -374,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0187-repeated-dna-sequences](https://github.com/thePankaj021/DSA_Practice/tree/master/0187-repeated-dna-sequences) |
 | [0691-stickers-to-spell-word](https://github.com/thePankaj021/DSA_Practice/tree/master/0691-stickers-to-spell-word) |
 | [0782-transform-to-chessboard](https://github.com/thePankaj021/DSA_Practice/tree/master/0782-transform-to-chessboard) |
+| [0805-split-array-with-same-average](https://github.com/thePankaj021/DSA_Practice/tree/master/0805-split-array-with-same-average) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -433,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0691-stickers-to-spell-word](https://github.com/thePankaj021/DSA_Practice/tree/master/0691-stickers-to-spell-word) |
+| [0805-split-array-with-same-average](https://github.com/thePankaj021/DSA_Practice/tree/master/0805-split-array-with-same-average) |
 ## Segment Tree
 |  |
 | ------- |
