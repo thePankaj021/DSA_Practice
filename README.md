@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/thePankaj021/DSA_Practice/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1187-make-array-strictly-increasing](https://github.com/thePankaj021/DSA_Practice/tree/master/1187-make-array-strictly-increasing) |
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/thePankaj021/DSA_Practice/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
+| [1223-dice-roll-simulation](https://github.com/thePankaj021/DSA_Practice/tree/master/1223-dice-roll-simulation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1000-minimum-cost-to-merge-stones](https://github.com/thePankaj021/DSA_Practice/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1125-smallest-sufficient-team](https://github.com/thePankaj021/DSA_Practice/tree/master/1125-smallest-sufficient-team) |
 | [1187-make-array-strictly-increasing](https://github.com/thePankaj021/DSA_Practice/tree/master/1187-make-array-strictly-increasing) |
+| [1223-dice-roll-simulation](https://github.com/thePankaj021/DSA_Practice/tree/master/1223-dice-roll-simulation) |
 ## Stack
 |  |
 | ------- |
