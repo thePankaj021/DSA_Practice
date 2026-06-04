@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/thePankaj021/DSA_Practice/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1223-dice-roll-simulation](https://github.com/thePankaj021/DSA_Practice/tree/master/1223-dice-roll-simulation) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/thePankaj021/DSA_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1250-check-if-it-is-a-good-array](https://github.com/thePankaj021/DSA_Practice/tree/master/1250-check-if-it-is-a-good-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0964-least-operators-to-express-number](https://github.com/thePankaj021/DSA_Practice/tree/master/0964-least-operators-to-express-number) |
 | [0972-equal-rational-numbers](https://github.com/thePankaj021/DSA_Practice/tree/master/0972-equal-rational-numbers) |
 | [0996-number-of-squareful-arrays](https://github.com/thePankaj021/DSA_Practice/tree/master/0996-number-of-squareful-arrays) |
+| [1250-check-if-it-is-a-good-array](https://github.com/thePankaj021/DSA_Practice/tree/master/1250-check-if-it-is-a-good-array) |
 ## Matrix
 |  |
 | ------- |
@@ -718,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0952-largest-component-size-by-common-factor](https://github.com/thePankaj021/DSA_Practice/tree/master/0952-largest-component-size-by-common-factor) |
+| [1250-check-if-it-is-a-good-array](https://github.com/thePankaj021/DSA_Practice/tree/master/1250-check-if-it-is-a-good-array) |
 ## Simulation
 |  |
 | ------- |
