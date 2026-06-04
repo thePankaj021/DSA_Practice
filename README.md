@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/thePankaj021/DSA_Practice/tree/master/0016-3sum-closest) |
+| [0143-reorder-list](https://github.com/thePankaj021/DSA_Practice/tree/master/0143-reorder-list) |
 ## Sorting
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0023-merge-k-sorted-lists](https://github.com/thePankaj021/DSA_Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/thePankaj021/DSA_Practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/thePankaj021/DSA_Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0143-reorder-list](https://github.com/thePankaj021/DSA_Practice/tree/master/0143-reorder-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/thePankaj021/DSA_Practice/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/thePankaj021/DSA_Practice/tree/master/0085-maximal-rectangle) |
+| [0143-reorder-list](https://github.com/thePankaj021/DSA_Practice/tree/master/0143-reorder-list) |
 ## Greedy
 |  |
 | ------- |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0024-swap-nodes-in-pairs](https://github.com/thePankaj021/DSA_Practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/thePankaj021/DSA_Practice/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/thePankaj021/DSA_Practice/tree/master/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/thePankaj021/DSA_Practice/tree/master/0143-reorder-list) |
 ## Math
 |  |
 | ------- |
