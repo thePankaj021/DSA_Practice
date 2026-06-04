@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0805-split-array-with-same-average](https://github.com/thePankaj021/DSA_Practice/tree/master/0805-split-array-with-same-average) |
 | [0810-chalkboard-xor-game](https://github.com/thePankaj021/DSA_Practice/tree/master/0810-chalkboard-xor-game) |
 | [0829-consecutive-numbers-sum](https://github.com/thePankaj021/DSA_Practice/tree/master/0829-consecutive-numbers-sum) |
+| [0878-nth-magical-number](https://github.com/thePankaj021/DSA_Practice/tree/master/0878-nth-magical-number) |
 ## Matrix
 |  |
 | ------- |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0778-swim-in-rising-water](https://github.com/thePankaj021/DSA_Practice/tree/master/0778-swim-in-rising-water) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/thePankaj021/DSA_Practice/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/thePankaj021/DSA_Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0878-nth-magical-number](https://github.com/thePankaj021/DSA_Practice/tree/master/0878-nth-magical-number) |
 ## Tree
 |  |
 | ------- |
