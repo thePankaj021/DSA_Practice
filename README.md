@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/thePankaj021/DSA_Practice/tree/master/0016-3sum-closest) |
+| [0147-insertion-sort-list](https://github.com/thePankaj021/DSA_Practice/tree/master/0147-insertion-sort-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0024-swap-nodes-in-pairs](https://github.com/thePankaj021/DSA_Practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/thePankaj021/DSA_Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0143-reorder-list](https://github.com/thePankaj021/DSA_Practice/tree/master/0143-reorder-list) |
+| [0147-insertion-sort-list](https://github.com/thePankaj021/DSA_Practice/tree/master/0147-insertion-sort-list) |
 ## Divide and Conquer
 |  |
 | ------- |
