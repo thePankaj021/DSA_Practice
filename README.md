@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0952-largest-component-size-by-common-factor](https://github.com/thePankaj021/DSA_Practice/tree/master/0952-largest-component-size-by-common-factor) |
 | [0956-tallest-billboard](https://github.com/thePankaj021/DSA_Practice/tree/master/0956-tallest-billboard) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0975-odd-even-jump](https://github.com/thePankaj021/DSA_Practice/tree/master/0975-odd-even-jump) |
 ## Two Pointers
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/thePankaj021/DSA_Practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0891-sum-of-subsequence-widths](https://github.com/thePankaj021/DSA_Practice/tree/master/0891-sum-of-subsequence-widths) |
 | [0899-orderly-queue](https://github.com/thePankaj021/DSA_Practice/tree/master/0899-orderly-queue) |
+| [0975-odd-even-jump](https://github.com/thePankaj021/DSA_Practice/tree/master/0975-odd-even-jump) |
 ## Hash Table
 |  |
 | ------- |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0964-least-operators-to-express-number](https://github.com/thePankaj021/DSA_Practice/tree/master/0964-least-operators-to-express-number) |
 | [0968-binary-tree-cameras](https://github.com/thePankaj021/DSA_Practice/tree/master/0968-binary-tree-cameras) |
+| [0975-odd-even-jump](https://github.com/thePankaj021/DSA_Practice/tree/master/0975-odd-even-jump) |
 ## Stack
 |  |
 | ------- |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0726-number-of-atoms](https://github.com/thePankaj021/DSA_Practice/tree/master/0726-number-of-atoms) |
 | [0895-maximum-frequency-stack](https://github.com/thePankaj021/DSA_Practice/tree/master/0895-maximum-frequency-stack) |
 | [0936-stamping-the-sequence](https://github.com/thePankaj021/DSA_Practice/tree/master/0936-stamping-the-sequence) |
+| [0975-odd-even-jump](https://github.com/thePankaj021/DSA_Practice/tree/master/0975-odd-even-jump) |
 ## Greedy
 |  |
 | ------- |
@@ -348,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/thePankaj021/DSA_Practice/tree/master/0085-maximal-rectangle) |
+| [0975-odd-even-jump](https://github.com/thePankaj021/DSA_Practice/tree/master/0975-odd-even-jump) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -578,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0732-my-calendar-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0732-my-calendar-iii) |
 | [0850-rectangle-area-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0850-rectangle-area-ii) |
 | [0895-maximum-frequency-stack](https://github.com/thePankaj021/DSA_Practice/tree/master/0895-maximum-frequency-stack) |
+| [0975-odd-even-jump](https://github.com/thePankaj021/DSA_Practice/tree/master/0975-odd-even-jump) |
 ## Randomized
 |  |
 | ------- |
