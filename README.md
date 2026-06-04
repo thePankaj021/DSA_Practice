@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0980-unique-paths-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0980-unique-paths-iii) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/thePankaj021/DSA_Practice/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [0992-subarrays-with-k-different-integers](https://github.com/thePankaj021/DSA_Practice/tree/master/0992-subarrays-with-k-different-integers) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/thePankaj021/DSA_Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Two Pointers
 |  |
 | ------- |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0943-find-the-shortest-superstring](https://github.com/thePankaj021/DSA_Practice/tree/master/0943-find-the-shortest-superstring) |
 | [0980-unique-paths-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0980-unique-paths-iii) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/thePankaj021/DSA_Practice/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/thePankaj021/DSA_Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/thePankaj021/DSA_Practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/thePankaj021/DSA_Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/thePankaj021/DSA_Practice/tree/master/0992-subarrays-with-k-different-integers) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/thePankaj021/DSA_Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -583,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0732-my-calendar-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0732-my-calendar-iii) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/thePankaj021/DSA_Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/thePankaj021/DSA_Practice/tree/master/0903-valid-permutations-for-di-sequence) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/thePankaj021/DSA_Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Enumeration
 |  |
 | ------- |
@@ -643,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/thePankaj021/DSA_Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0936-stamping-the-sequence](https://github.com/thePankaj021/DSA_Practice/tree/master/0936-stamping-the-sequence) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/thePankaj021/DSA_Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Monotonic Queue
 |  |
 | ------- |
