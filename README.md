@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1402-reducing-dishes](https://github.com/thePankaj021/DSA_Practice/tree/master/1402-reducing-dishes) |
 | [1425-constrained-subsequence-sum](https://github.com/thePankaj021/DSA_Practice/tree/master/1425-constrained-subsequence-sum) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/thePankaj021/DSA_Practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
+| [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/thePankaj021/DSA_Practice/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 ## Two Pointers
 |  |
 | ------- |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1250-check-if-it-is-a-good-array](https://github.com/thePankaj021/DSA_Practice/tree/master/1250-check-if-it-is-a-good-array) |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/thePankaj021/DSA_Practice/tree/master/1330-reverse-subarray-to-maximize-array-value) |
 | [1363-largest-multiple-of-three](https://github.com/thePankaj021/DSA_Practice/tree/master/1363-largest-multiple-of-three) |
+| [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/thePankaj021/DSA_Practice/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 ## Matrix
 |  |
 | ------- |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0149-max-points-on-a-line](https://github.com/thePankaj021/DSA_Practice/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/thePankaj021/DSA_Practice/tree/master/0223-rectangle-area) |
 | [0587-erect-the-fence](https://github.com/thePankaj021/DSA_Practice/tree/master/0587-erect-the-fence) |
+| [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/thePankaj021/DSA_Practice/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 ## Binary Search
 |  |
 | ------- |
