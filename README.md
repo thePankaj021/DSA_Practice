@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thePankaj021/DSA_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/thePankaj021/DSA_Practice/tree/master/0164-maximum-gap) |
+| [0200-number-of-islands](https://github.com/thePankaj021/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/thePankaj021/DSA_Practice/tree/master/0446-arithmetic-slices-ii-subsequence) |
 ## Two Pointers
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0064-minimum-path-sum](https://github.com/thePankaj021/DSA_Practice/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/thePankaj021/DSA_Practice/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/thePankaj021/DSA_Practice/tree/master/0200-number-of-islands) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/thePankaj021/DSA_Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/thePankaj021/DSA_Practice/tree/master/0127-word-ladder) |
+| [0200-number-of-islands](https://github.com/thePankaj021/DSA_Practice/tree/master/0200-number-of-islands) |
 ## Trie
 |  |
 | ------- |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0110-balanced-binary-tree](https://github.com/thePankaj021/DSA_Practice/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/thePankaj021/DSA_Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0113-path-sum-ii) |
+| [0200-number-of-islands](https://github.com/thePankaj021/DSA_Practice/tree/master/0200-number-of-islands) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -256,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/thePankaj021/DSA_Practice/tree/master/0187-repeated-dna-sequences) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/thePankaj021/DSA_Practice/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
