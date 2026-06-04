@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0710-random-pick-with-blacklist](https://github.com/thePankaj021/DSA_Practice/tree/master/0710-random-pick-with-blacklist) |
 | [0780-reaching-points](https://github.com/thePankaj021/DSA_Practice/tree/master/0780-reaching-points) |
 | [0782-transform-to-chessboard](https://github.com/thePankaj021/DSA_Practice/tree/master/0782-transform-to-chessboard) |
+| [0793-preimage-size-of-factorial-zeroes-function](https://github.com/thePankaj021/DSA_Practice/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 ## Matrix
 |  |
 | ------- |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0719-find-k-th-smallest-pair-distance](https://github.com/thePankaj021/DSA_Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0732-my-calendar-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0732-my-calendar-iii) |
 | [0778-swim-in-rising-water](https://github.com/thePankaj021/DSA_Practice/tree/master/0778-swim-in-rising-water) |
+| [0793-preimage-size-of-factorial-zeroes-function](https://github.com/thePankaj021/DSA_Practice/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 ## Tree
 |  |
 | ------- |
