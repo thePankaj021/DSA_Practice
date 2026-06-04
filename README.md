@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0975-odd-even-jump](https://github.com/thePankaj021/DSA_Practice/tree/master/0975-odd-even-jump) |
 | [0980-unique-paths-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0980-unique-paths-iii) |
+| [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/thePankaj021/DSA_Practice/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0895-maximum-frequency-stack](https://github.com/thePankaj021/DSA_Practice/tree/master/0895-maximum-frequency-stack) |
 | [0924-minimize-malware-spread](https://github.com/thePankaj021/DSA_Practice/tree/master/0924-minimize-malware-spread) |
 | [0952-largest-component-size-by-common-factor](https://github.com/thePankaj021/DSA_Practice/tree/master/0952-largest-component-size-by-common-factor) |
+| [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/thePankaj021/DSA_Practice/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 ## String
 |  |
 | ------- |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0864-shortest-path-to-get-all-keys](https://github.com/thePankaj021/DSA_Practice/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0943-find-the-shortest-superstring](https://github.com/thePankaj021/DSA_Practice/tree/master/0943-find-the-shortest-superstring) |
 | [0980-unique-paths-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0980-unique-paths-iii) |
+| [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/thePankaj021/DSA_Practice/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 ## Bucket Sort
 |  |
 | ------- |
