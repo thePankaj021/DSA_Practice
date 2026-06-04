@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1289-minimum-falling-path-sum-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/thePankaj021/DSA_Practice/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1301-number-of-paths-with-max-score](https://github.com/thePankaj021/DSA_Practice/tree/master/1301-number-of-paths-with-max-score) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/thePankaj021/DSA_Practice/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 ## Two Pointers
 |  |
 | ------- |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1255-maximum-score-words-formed-by-letters](https://github.com/thePankaj021/DSA_Practice/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/thePankaj021/DSA_Practice/tree/master/1301-number-of-paths-with-max-score) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/thePankaj021/DSA_Practice/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 ## Stack
 |  |
 | ------- |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/thePankaj021/DSA_Practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/thePankaj021/DSA_Practice/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0936-stamping-the-sequence](https://github.com/thePankaj021/DSA_Practice/tree/master/0936-stamping-the-sequence) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/thePankaj021/DSA_Practice/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 ## Recursion
 |  |
 | ------- |
