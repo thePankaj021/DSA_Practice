@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/thePankaj021/DSA_Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/thePankaj021/DSA_Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/thePankaj021/DSA_Practice/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/thePankaj021/DSA_Practice/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/thePankaj021/DSA_Practice/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/thePankaj021/DSA_Practice/tree/master/0065-valid-number) |
 | [0087-scramble-string](https://github.com/thePankaj021/DSA_Practice/tree/master/0087-scramble-string) |
