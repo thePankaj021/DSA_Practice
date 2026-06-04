@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0745-prefix-and-suffix-search](https://github.com/thePankaj021/DSA_Practice/tree/master/0745-prefix-and-suffix-search) |
 | [0749-contain-virus](https://github.com/thePankaj021/DSA_Practice/tree/master/0749-contain-virus) |
 | [0757-set-intersection-size-at-least-two](https://github.com/thePankaj021/DSA_Practice/tree/master/0757-set-intersection-size-at-least-two) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0778-swim-in-rising-water](https://github.com/thePankaj021/DSA_Practice/tree/master/0778-swim-in-rising-water) |
 | [0782-transform-to-chessboard](https://github.com/thePankaj021/DSA_Practice/tree/master/0782-transform-to-chessboard) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/thePankaj021/DSA_Practice/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0719-find-k-th-smallest-pair-distance](https://github.com/thePankaj021/DSA_Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/thePankaj021/DSA_Practice/tree/master/0726-number-of-atoms) |
 | [0757-set-intersection-size-at-least-two](https://github.com/thePankaj021/DSA_Practice/tree/master/0757-set-intersection-size-at-least-two) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/thePankaj021/DSA_Practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0891-sum-of-subsequence-widths](https://github.com/thePankaj021/DSA_Practice/tree/master/0891-sum-of-subsequence-widths) |
 | [0899-orderly-queue](https://github.com/thePankaj021/DSA_Practice/tree/master/0899-orderly-queue) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0227-basic-calculator-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0227-basic-calculator-ii) |
 | [0488-zuma-game](https://github.com/thePankaj021/DSA_Practice/tree/master/0488-zuma-game) |
 | [0726-number-of-atoms](https://github.com/thePankaj021/DSA_Practice/tree/master/0726-number-of-atoms) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0895-maximum-frequency-stack](https://github.com/thePankaj021/DSA_Practice/tree/master/0895-maximum-frequency-stack) |
 | [0936-stamping-the-sequence](https://github.com/thePankaj021/DSA_Practice/tree/master/0936-stamping-the-sequence) |
 | [0975-odd-even-jump](https://github.com/thePankaj021/DSA_Practice/tree/master/0975-odd-even-jump) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0630-course-schedule-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/thePankaj021/DSA_Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0757-set-intersection-size-at-least-two](https://github.com/thePankaj021/DSA_Practice/tree/master/0757-set-intersection-size-at-least-two) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/thePankaj021/DSA_Practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/thePankaj021/DSA_Practice/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0936-stamping-the-sequence](https://github.com/thePankaj021/DSA_Practice/tree/master/0936-stamping-the-sequence) |
@@ -363,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/thePankaj021/DSA_Practice/tree/master/0085-maximal-rectangle) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0975-odd-even-jump](https://github.com/thePankaj021/DSA_Practice/tree/master/0975-odd-even-jump) |
 ## Breadth-First Search
 |  |
