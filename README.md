@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/thePankaj021/DSA_Practice/tree/master/0304-range-sum-query-2d-immutable) |
+| [0715-range-module](https://github.com/thePankaj021/DSA_Practice/tree/master/0715-range-module) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -401,10 +402,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0699-falling-squares](https://github.com/thePankaj021/DSA_Practice/tree/master/0699-falling-squares) |
+| [0715-range-module](https://github.com/thePankaj021/DSA_Practice/tree/master/0715-range-module) |
 ## Ordered Set
 |  |
 | ------- |
 | [0699-falling-squares](https://github.com/thePankaj021/DSA_Practice/tree/master/0699-falling-squares) |
+| [0715-range-module](https://github.com/thePankaj021/DSA_Practice/tree/master/0715-range-module) |
 ## Randomized
 |  |
 | ------- |
