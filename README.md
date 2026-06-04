@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/thePankaj021/DSA_Practice/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0805-split-array-with-same-average](https://github.com/thePankaj021/DSA_Practice/tree/master/0805-split-array-with-same-average) |
 | [0810-chalkboard-xor-game](https://github.com/thePankaj021/DSA_Practice/tree/master/0810-chalkboard-xor-game) |
+| [0829-consecutive-numbers-sum](https://github.com/thePankaj021/DSA_Practice/tree/master/0829-consecutive-numbers-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0479-largest-palindrome-product](https://github.com/thePankaj021/DSA_Practice/tree/master/0479-largest-palindrome-product) |
+| [0829-consecutive-numbers-sum](https://github.com/thePankaj021/DSA_Practice/tree/master/0829-consecutive-numbers-sum) |
 ## Graph Theory
 |  |
 | ------- |
