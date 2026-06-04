@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0051-n-queens](https://github.com/thePankaj021/DSA_Practice/tree/master/0051-n-queens) |
 | [0085-maximal-rectangle](https://github.com/thePankaj021/DSA_Practice/tree/master/0085-maximal-rectangle) |
 | [0135-candy](https://github.com/thePankaj021/DSA_Practice/tree/master/0135-candy) |
+| [0140-word-break-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0140-word-break-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/thePankaj021/DSA_Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/thePankaj021/DSA_Practice/tree/master/0041-first-missing-positive) |
 | [0127-word-ladder](https://github.com/thePankaj021/DSA_Practice/tree/master/0127-word-ladder) |
+| [0140-word-break-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0140-word-break-ii) |
 ## String
 |  |
 | ------- |
@@ -35,12 +37,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0087-scramble-string](https://github.com/thePankaj021/DSA_Practice/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/thePankaj021/DSA_Practice/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/thePankaj021/DSA_Practice/tree/master/0127-word-ladder) |
+| [0140-word-break-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0140-word-break-ii) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/thePankaj021/DSA_Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0051-n-queens](https://github.com/thePankaj021/DSA_Practice/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0052-n-queens-ii) |
+| [0140-word-break-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0140-word-break-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -65,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0085-maximal-rectangle](https://github.com/thePankaj021/DSA_Practice/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/thePankaj021/DSA_Practice/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/thePankaj021/DSA_Practice/tree/master/0115-distinct-subsequences) |
+| [0140-word-break-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0140-word-break-ii) |
 ## Stack
 |  |
 | ------- |
@@ -96,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/thePankaj021/DSA_Practice/tree/master/0127-word-ladder) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0140-word-break-ii) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
