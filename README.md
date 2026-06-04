@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1036-escape-a-large-maze](https://github.com/thePankaj021/DSA_Practice/tree/master/1036-escape-a-large-maze) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/thePankaj021/DSA_Practice/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1125-smallest-sufficient-team](https://github.com/thePankaj021/DSA_Practice/tree/master/1125-smallest-sufficient-team) |
+| [1157-online-majority-element-in-subarray](https://github.com/thePankaj021/DSA_Practice/tree/master/1157-online-majority-element-in-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0878-nth-magical-number](https://github.com/thePankaj021/DSA_Practice/tree/master/0878-nth-magical-number) |
 | [0887-super-egg-drop](https://github.com/thePankaj021/DSA_Practice/tree/master/0887-super-egg-drop) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/thePankaj021/DSA_Practice/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [1157-online-majority-element-in-subarray](https://github.com/thePankaj021/DSA_Practice/tree/master/1157-online-majority-element-in-subarray) |
 ## Tree
 |  |
 | ------- |
@@ -602,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0745-prefix-and-suffix-search](https://github.com/thePankaj021/DSA_Practice/tree/master/0745-prefix-and-suffix-search) |
 | [0895-maximum-frequency-stack](https://github.com/thePankaj021/DSA_Practice/tree/master/0895-maximum-frequency-stack) |
 | [1032-stream-of-characters](https://github.com/thePankaj021/DSA_Practice/tree/master/1032-stream-of-characters) |
+| [1157-online-majority-element-in-subarray](https://github.com/thePankaj021/DSA_Practice/tree/master/1157-online-majority-element-in-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -644,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0715-range-module](https://github.com/thePankaj021/DSA_Practice/tree/master/0715-range-module) |
 | [0732-my-calendar-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0732-my-calendar-iii) |
 | [0850-rectangle-area-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0850-rectangle-area-ii) |
+| [1157-online-majority-element-in-subarray](https://github.com/thePankaj021/DSA_Practice/tree/master/1157-online-majority-element-in-subarray) |
 ## Ordered Set
 |  |
 | ------- |
@@ -704,4 +708,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1032-stream-of-characters](https://github.com/thePankaj021/DSA_Practice/tree/master/1032-stream-of-characters) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1157-online-majority-element-in-subarray](https://github.com/thePankaj021/DSA_Practice/tree/master/1157-online-majority-element-in-subarray) |
 <!---LeetCode Topics End-->
