@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0943-find-the-shortest-superstring](https://github.com/thePankaj021/DSA_Practice/tree/master/0943-find-the-shortest-superstring) |
 | [0956-tallest-billboard](https://github.com/thePankaj021/DSA_Practice/tree/master/0956-tallest-billboard) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0964-least-operators-to-express-number](https://github.com/thePankaj021/DSA_Practice/tree/master/0964-least-operators-to-express-number) |
 ## Stack
 |  |
 | ------- |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0920-number-of-music-playlists](https://github.com/thePankaj021/DSA_Practice/tree/master/0920-number-of-music-playlists) |
 | [0927-three-equal-parts](https://github.com/thePankaj021/DSA_Practice/tree/master/0927-three-equal-parts) |
 | [0952-largest-component-size-by-common-factor](https://github.com/thePankaj021/DSA_Practice/tree/master/0952-largest-component-size-by-common-factor) |
+| [0964-least-operators-to-express-number](https://github.com/thePankaj021/DSA_Practice/tree/master/0964-least-operators-to-express-number) |
 ## Matrix
 |  |
 | ------- |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0546-remove-boxes](https://github.com/thePankaj021/DSA_Practice/tree/master/0546-remove-boxes) |
 | [0691-stickers-to-spell-word](https://github.com/thePankaj021/DSA_Practice/tree/master/0691-stickers-to-spell-word) |
 | [0913-cat-and-mouse](https://github.com/thePankaj021/DSA_Practice/tree/master/0913-cat-and-mouse) |
+| [0964-least-operators-to-express-number](https://github.com/thePankaj021/DSA_Practice/tree/master/0964-least-operators-to-express-number) |
 ## Geometry
 |  |
 | ------- |
