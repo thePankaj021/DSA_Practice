@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/thePankaj021/DSA_Practice/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1125-smallest-sufficient-team](https://github.com/thePankaj021/DSA_Practice/tree/master/1125-smallest-sufficient-team) |
 | [1157-online-majority-element-in-subarray](https://github.com/thePankaj021/DSA_Practice/tree/master/1157-online-majority-element-in-subarray) |
+| [1178-number-of-valid-words-for-each-puzzle](https://github.com/thePankaj021/DSA_Practice/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1001-grid-illumination](https://github.com/thePankaj021/DSA_Practice/tree/master/1001-grid-illumination) |
 | [1036-escape-a-large-maze](https://github.com/thePankaj021/DSA_Practice/tree/master/1036-escape-a-large-maze) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/thePankaj021/DSA_Practice/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1178-number-of-valid-words-for-each-puzzle](https://github.com/thePankaj021/DSA_Practice/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 ## String
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0972-equal-rational-numbers](https://github.com/thePankaj021/DSA_Practice/tree/master/0972-equal-rational-numbers) |
 | [1032-stream-of-characters](https://github.com/thePankaj021/DSA_Practice/tree/master/1032-stream-of-characters) |
+| [1178-number-of-valid-words-for-each-puzzle](https://github.com/thePankaj021/DSA_Practice/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 ## Backtracking
 |  |
 | ------- |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0472-concatenated-words](https://github.com/thePankaj021/DSA_Practice/tree/master/0472-concatenated-words) |
 | [0745-prefix-and-suffix-search](https://github.com/thePankaj021/DSA_Practice/tree/master/0745-prefix-and-suffix-search) |
 | [1032-stream-of-characters](https://github.com/thePankaj021/DSA_Practice/tree/master/1032-stream-of-characters) |
+| [1178-number-of-valid-words-for-each-puzzle](https://github.com/thePankaj021/DSA_Practice/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 ## Memoization
 |  |
 | ------- |
@@ -552,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/thePankaj021/DSA_Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [0996-number-of-squareful-arrays](https://github.com/thePankaj021/DSA_Practice/tree/master/0996-number-of-squareful-arrays) |
 | [1125-smallest-sufficient-team](https://github.com/thePankaj021/DSA_Practice/tree/master/1125-smallest-sufficient-team) |
+| [1178-number-of-valid-words-for-each-puzzle](https://github.com/thePankaj021/DSA_Practice/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 ## Bucket Sort
 |  |
 | ------- |
