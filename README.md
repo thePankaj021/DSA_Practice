@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0546-remove-boxes](https://github.com/thePankaj021/DSA_Practice/tree/master/0546-remove-boxes) |
 | [0587-erect-the-fence](https://github.com/thePankaj021/DSA_Practice/tree/master/0587-erect-the-fence) |
 | [0630-course-schedule-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/thePankaj021/DSA_Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0472-concatenated-words](https://github.com/thePankaj021/DSA_Practice/tree/master/0472-concatenated-words) |
 | [0502-ipo](https://github.com/thePankaj021/DSA_Practice/tree/master/0502-ipo) |
 | [0630-course-schedule-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/thePankaj021/DSA_Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/thePankaj021/DSA_Practice/tree/master/0299-bulls-and-cows) |
 | [0480-sliding-window-median](https://github.com/thePankaj021/DSA_Practice/tree/master/0480-sliding-window-median) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/thePankaj021/DSA_Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## String
 |  |
 | ------- |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0480-sliding-window-median](https://github.com/thePankaj021/DSA_Practice/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/thePankaj021/DSA_Practice/tree/master/0502-ipo) |
 | [0630-course-schedule-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/thePankaj021/DSA_Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Merge Sort
 |  |
 | ------- |
@@ -176,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0502-ipo](https://github.com/thePankaj021/DSA_Practice/tree/master/0502-ipo) |
 | [0517-super-washing-machines](https://github.com/thePankaj021/DSA_Practice/tree/master/0517-super-washing-machines) |
 | [0630-course-schedule-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/thePankaj021/DSA_Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Recursion
 |  |
 | ------- |
@@ -323,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/thePankaj021/DSA_Practice/tree/master/0187-repeated-dna-sequences) |
 | [0480-sliding-window-median](https://github.com/thePankaj021/DSA_Practice/tree/master/0480-sliding-window-median) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/thePankaj021/DSA_Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Rolling Hash
 |  |
 | ------- |
