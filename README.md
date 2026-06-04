@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0227-basic-calculator-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/thePankaj021/DSA_Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0479-largest-palindrome-product](https://github.com/thePankaj021/DSA_Practice/tree/master/0479-largest-palindrome-product) |
+| [0483-smallest-good-base](https://github.com/thePankaj021/DSA_Practice/tree/master/0483-smallest-good-base) |
 ## Matrix
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thePankaj021/DSA_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0483-smallest-good-base](https://github.com/thePankaj021/DSA_Practice/tree/master/0483-smallest-good-base) |
 ## Tree
 |  |
 | ------- |
