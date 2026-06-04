@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/thePankaj021/DSA_Practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/thePankaj021/DSA_Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/thePankaj021/DSA_Practice/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/thePankaj021/DSA_Practice/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 ## Merge Sort
 |  |
 | ------- |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0685-redundant-connection-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0685-redundant-connection-ii) |
 | [0834-sum-of-distances-in-tree](https://github.com/thePankaj021/DSA_Practice/tree/master/0834-sum-of-distances-in-tree) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/thePankaj021/DSA_Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/thePankaj021/DSA_Practice/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 ## Bitmask
 |  |
 | ------- |
@@ -534,4 +536,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/thePankaj021/DSA_Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Shortest Path
+|  |
+| ------- |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/thePankaj021/DSA_Practice/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 <!---LeetCode Topics End-->
