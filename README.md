@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0940-distinct-subsequences-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0940-distinct-subsequences-ii) |
 | [0943-find-the-shortest-superstring](https://github.com/thePankaj021/DSA_Practice/tree/master/0943-find-the-shortest-superstring) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0972-equal-rational-numbers](https://github.com/thePankaj021/DSA_Practice/tree/master/0972-equal-rational-numbers) |
 ## Backtracking
 |  |
 | ------- |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0927-three-equal-parts](https://github.com/thePankaj021/DSA_Practice/tree/master/0927-three-equal-parts) |
 | [0952-largest-component-size-by-common-factor](https://github.com/thePankaj021/DSA_Practice/tree/master/0952-largest-component-size-by-common-factor) |
 | [0964-least-operators-to-express-number](https://github.com/thePankaj021/DSA_Practice/tree/master/0964-least-operators-to-express-number) |
+| [0972-equal-rational-numbers](https://github.com/thePankaj021/DSA_Practice/tree/master/0972-equal-rational-numbers) |
 ## Matrix
 |  |
 | ------- |
