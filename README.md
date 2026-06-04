@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1345-jump-game-iv](https://github.com/thePankaj021/DSA_Practice/tree/master/1345-jump-game-iv) |
 | [1349-maximum-students-taking-exam](https://github.com/thePankaj021/DSA_Practice/tree/master/1349-maximum-students-taking-exam) |
 | [1363-largest-multiple-of-three](https://github.com/thePankaj021/DSA_Practice/tree/master/1363-largest-multiple-of-three) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/thePankaj021/DSA_Practice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0871-minimum-number-of-refueling-stops](https://github.com/thePankaj021/DSA_Practice/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/thePankaj021/DSA_Practice/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/thePankaj021/DSA_Practice/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/thePankaj021/DSA_Practice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Merge Sort
 |  |
 | ------- |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1289-minimum-falling-path-sum-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/thePankaj021/DSA_Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1349-maximum-students-taking-exam](https://github.com/thePankaj021/DSA_Practice/tree/master/1349-maximum-students-taking-exam) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/thePankaj021/DSA_Practice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/thePankaj021/DSA_Practice/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/thePankaj021/DSA_Practice/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1345-jump-game-iv](https://github.com/thePankaj021/DSA_Practice/tree/master/1345-jump-game-iv) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/thePankaj021/DSA_Practice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Trie
 |  |
 | ------- |
@@ -691,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0913-cat-and-mouse](https://github.com/thePankaj021/DSA_Practice/tree/master/0913-cat-and-mouse) |
 | [0924-minimize-malware-spread](https://github.com/thePankaj021/DSA_Practice/tree/master/0924-minimize-malware-spread) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/thePankaj021/DSA_Practice/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/thePankaj021/DSA_Practice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Bitmask
 |  |
 | ------- |
@@ -750,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/thePankaj021/DSA_Practice/tree/master/0882-reachable-nodes-in-subdivided-graph) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/thePankaj021/DSA_Practice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
