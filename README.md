@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0143-reorder-list](https://github.com/thePankaj021/DSA_Practice/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/thePankaj021/DSA_Practice/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/thePankaj021/DSA_Practice/tree/master/0148-sort-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/thePankaj021/DSA_Practice/tree/master/0237-delete-node-in-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
