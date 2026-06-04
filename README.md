@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0996-number-of-squareful-arrays](https://github.com/thePankaj021/DSA_Practice/tree/master/0996-number-of-squareful-arrays) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/thePankaj021/DSA_Practice/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1001-grid-illumination](https://github.com/thePankaj021/DSA_Practice/tree/master/1001-grid-illumination) |
+| [1032-stream-of-characters](https://github.com/thePankaj021/DSA_Practice/tree/master/1032-stream-of-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0943-find-the-shortest-superstring](https://github.com/thePankaj021/DSA_Practice/tree/master/0943-find-the-shortest-superstring) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0972-equal-rational-numbers](https://github.com/thePankaj021/DSA_Practice/tree/master/0972-equal-rational-numbers) |
+| [1032-stream-of-characters](https://github.com/thePankaj021/DSA_Practice/tree/master/1032-stream-of-characters) |
 ## Backtracking
 |  |
 | ------- |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0140-word-break-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0140-word-break-ii) |
 | [0472-concatenated-words](https://github.com/thePankaj021/DSA_Practice/tree/master/0472-concatenated-words) |
 | [0745-prefix-and-suffix-search](https://github.com/thePankaj021/DSA_Practice/tree/master/0745-prefix-and-suffix-search) |
+| [1032-stream-of-characters](https://github.com/thePankaj021/DSA_Practice/tree/master/1032-stream-of-characters) |
 ## Memoization
 |  |
 | ------- |
@@ -588,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0732-my-calendar-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0732-my-calendar-iii) |
 | [0745-prefix-and-suffix-search](https://github.com/thePankaj021/DSA_Practice/tree/master/0745-prefix-and-suffix-search) |
 | [0895-maximum-frequency-stack](https://github.com/thePankaj021/DSA_Practice/tree/master/0895-maximum-frequency-stack) |
+| [1032-stream-of-characters](https://github.com/thePankaj021/DSA_Practice/tree/master/1032-stream-of-characters) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -684,4 +688,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0749-contain-virus](https://github.com/thePankaj021/DSA_Practice/tree/master/0749-contain-virus) |
+## Data Stream
+|  |
+| ------- |
+| [1032-stream-of-characters](https://github.com/thePankaj021/DSA_Practice/tree/master/1032-stream-of-characters) |
 <!---LeetCode Topics End-->
