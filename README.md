@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0166-fraction-to-recurring-decimal](https://github.com/thePankaj021/DSA_Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/thePankaj021/DSA_Practice/tree/master/0187-repeated-dna-sequences) |
 | [0227-basic-calculator-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/thePankaj021/DSA_Practice/tree/master/0241-different-ways-to-add-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0115-distinct-subsequences](https://github.com/thePankaj021/DSA_Practice/tree/master/0115-distinct-subsequences) |
 | [0140-word-break-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/thePankaj021/DSA_Practice/tree/master/0152-maximum-product-subarray) |
+| [0241-different-ways-to-add-parentheses](https://github.com/thePankaj021/DSA_Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/thePankaj021/DSA_Practice/tree/master/0446-arithmetic-slices-ii-subsequence) |
 ## Stack
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0044-wildcard-matching](https://github.com/thePankaj021/DSA_Practice/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/thePankaj021/DSA_Practice/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/thePankaj021/DSA_Practice/tree/master/0143-reorder-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/thePankaj021/DSA_Practice/tree/master/0241-different-ways-to-add-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0166-fraction-to-recurring-decimal](https://github.com/thePankaj021/DSA_Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0223-rectangle-area](https://github.com/thePankaj021/DSA_Practice/tree/master/0223-rectangle-area) |
 | [0227-basic-calculator-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/thePankaj021/DSA_Practice/tree/master/0241-different-ways-to-add-parentheses) |
 ## Matrix
 |  |
 | ------- |
@@ -185,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0140-word-break-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/thePankaj021/DSA_Practice/tree/master/0241-different-ways-to-add-parentheses) |
 ## Geometry
 |  |
 | ------- |
