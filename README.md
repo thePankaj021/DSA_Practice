@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0517-super-washing-machines](https://github.com/thePankaj021/DSA_Practice/tree/master/0517-super-washing-machines) |
 | [0546-remove-boxes](https://github.com/thePankaj021/DSA_Practice/tree/master/0546-remove-boxes) |
 | [0587-erect-the-fence](https://github.com/thePankaj021/DSA_Practice/tree/master/0587-erect-the-fence) |
+| [0630-course-schedule-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0630-course-schedule-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0229-majority-element-ii) |
 | [0472-concatenated-words](https://github.com/thePankaj021/DSA_Practice/tree/master/0472-concatenated-words) |
 | [0502-ipo](https://github.com/thePankaj021/DSA_Practice/tree/master/0502-ipo) |
+| [0630-course-schedule-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0630-course-schedule-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0023-merge-k-sorted-lists](https://github.com/thePankaj021/DSA_Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0480-sliding-window-median](https://github.com/thePankaj021/DSA_Practice/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/thePankaj021/DSA_Practice/tree/master/0502-ipo) |
+| [0630-course-schedule-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0630-course-schedule-iii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0135-candy](https://github.com/thePankaj021/DSA_Practice/tree/master/0135-candy) |
 | [0502-ipo](https://github.com/thePankaj021/DSA_Practice/tree/master/0502-ipo) |
 | [0517-super-washing-machines](https://github.com/thePankaj021/DSA_Practice/tree/master/0517-super-washing-machines) |
+| [0630-course-schedule-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0630-course-schedule-iii) |
 ## Recursion
 |  |
 | ------- |
