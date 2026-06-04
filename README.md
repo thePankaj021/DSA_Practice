@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1383-maximum-performance-of-a-team](https://github.com/thePankaj021/DSA_Practice/tree/master/1383-maximum-performance-of-a-team) |
 | [1402-reducing-dishes](https://github.com/thePankaj021/DSA_Practice/tree/master/1402-reducing-dishes) |
 | [1425-constrained-subsequence-sum](https://github.com/thePankaj021/DSA_Practice/tree/master/1425-constrained-subsequence-sum) |
+| [1444-number-of-ways-of-cutting-a-pizza](https://github.com/thePankaj021/DSA_Practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 ## Two Pointers
 |  |
 | ------- |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1363-largest-multiple-of-three](https://github.com/thePankaj021/DSA_Practice/tree/master/1363-largest-multiple-of-three) |
 | [1402-reducing-dishes](https://github.com/thePankaj021/DSA_Practice/tree/master/1402-reducing-dishes) |
 | [1425-constrained-subsequence-sum](https://github.com/thePankaj021/DSA_Practice/tree/master/1425-constrained-subsequence-sum) |
+| [1444-number-of-ways-of-cutting-a-pizza](https://github.com/thePankaj021/DSA_Practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 ## Stack
 |  |
 | ------- |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1301-number-of-paths-with-max-score](https://github.com/thePankaj021/DSA_Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1349-maximum-students-taking-exam](https://github.com/thePankaj021/DSA_Practice/tree/master/1349-maximum-students-taking-exam) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/thePankaj021/DSA_Practice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1444-number-of-ways-of-cutting-a-pizza](https://github.com/thePankaj021/DSA_Practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0773-sliding-puzzle](https://github.com/thePankaj021/DSA_Practice/tree/master/0773-sliding-puzzle) |
 | [0913-cat-and-mouse](https://github.com/thePankaj021/DSA_Practice/tree/master/0913-cat-and-mouse) |
 | [0964-least-operators-to-express-number](https://github.com/thePankaj021/DSA_Practice/tree/master/0964-least-operators-to-express-number) |
+| [1444-number-of-ways-of-cutting-a-pizza](https://github.com/thePankaj021/DSA_Practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 ## Geometry
 |  |
 | ------- |
@@ -691,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/thePankaj021/DSA_Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/thePankaj021/DSA_Practice/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/thePankaj021/DSA_Practice/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1444-number-of-ways-of-cutting-a-pizza](https://github.com/thePankaj021/DSA_Practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 ## Enumeration
 |  |
 | ------- |
