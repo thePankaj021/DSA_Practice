@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0046-permutations](https://github.com/thePankaj021/DSA_Practice/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/thePankaj021/DSA_Practice/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0052-n-queens-ii) |
+| [0077-combinations](https://github.com/thePankaj021/DSA_Practice/tree/master/0077-combinations) |
 | [0113-path-sum-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0113-path-sum-ii) |
 | [0140-word-break-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0140-word-break-ii) |
 ## Linked List
