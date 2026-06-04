@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0044-wildcard-matching](https://github.com/thePankaj021/DSA_Practice/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/thePankaj021/DSA_Practice/tree/master/0065-valid-number) |
 | [0087-scramble-string](https://github.com/thePankaj021/DSA_Practice/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/thePankaj021/DSA_Practice/tree/master/0115-distinct-subsequences) |
 ## Backtracking
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0044-wildcard-matching](https://github.com/thePankaj021/DSA_Practice/tree/master/0044-wildcard-matching) |
 | [0085-maximal-rectangle](https://github.com/thePankaj021/DSA_Practice/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/thePankaj021/DSA_Practice/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/thePankaj021/DSA_Practice/tree/master/0115-distinct-subsequences) |
 ## Stack
 |  |
 | ------- |
