@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1349-maximum-students-taking-exam](https://github.com/thePankaj021/DSA_Practice/tree/master/1349-maximum-students-taking-exam) |
 | [1363-largest-multiple-of-three](https://github.com/thePankaj021/DSA_Practice/tree/master/1363-largest-multiple-of-three) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/thePankaj021/DSA_Practice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1383-maximum-performance-of-a-team](https://github.com/thePankaj021/DSA_Practice/tree/master/1383-maximum-performance-of-a-team) |
 ## Two Pointers
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1187-make-array-strictly-increasing](https://github.com/thePankaj021/DSA_Practice/tree/master/1187-make-array-strictly-increasing) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/thePankaj021/DSA_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1363-largest-multiple-of-three](https://github.com/thePankaj021/DSA_Practice/tree/master/1363-largest-multiple-of-three) |
+| [1383-maximum-performance-of-a-team](https://github.com/thePankaj021/DSA_Practice/tree/master/1383-maximum-performance-of-a-team) |
 ## Hash Table
 |  |
 | ------- |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/thePankaj021/DSA_Practice/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/thePankaj021/DSA_Practice/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/thePankaj021/DSA_Practice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1383-maximum-performance-of-a-team](https://github.com/thePankaj021/DSA_Practice/tree/master/1383-maximum-performance-of-a-team) |
 ## Merge Sort
 |  |
 | ------- |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/thePankaj021/DSA_Practice/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/thePankaj021/DSA_Practice/tree/master/1330-reverse-subarray-to-maximize-array-value) |
 | [1363-largest-multiple-of-three](https://github.com/thePankaj021/DSA_Practice/tree/master/1363-largest-multiple-of-three) |
+| [1383-maximum-performance-of-a-team](https://github.com/thePankaj021/DSA_Practice/tree/master/1383-maximum-performance-of-a-team) |
 ## Recursion
 |  |
 | ------- |
