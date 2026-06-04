@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0726-number-of-atoms](https://github.com/thePankaj021/DSA_Practice/tree/master/0726-number-of-atoms) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/thePankaj021/DSA_Practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0891-sum-of-subsequence-widths](https://github.com/thePankaj021/DSA_Practice/tree/master/0891-sum-of-subsequence-widths) |
+| [0899-orderly-queue](https://github.com/thePankaj021/DSA_Practice/tree/master/0899-orderly-queue) |
 ## Hash Table
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/thePankaj021/DSA_Practice/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0839-similar-string-groups](https://github.com/thePankaj021/DSA_Practice/tree/master/0839-similar-string-groups) |
 | [0854-k-similar-strings](https://github.com/thePankaj021/DSA_Practice/tree/master/0854-k-similar-strings) |
+| [0899-orderly-queue](https://github.com/thePankaj021/DSA_Practice/tree/master/0899-orderly-queue) |
 ## Backtracking
 |  |
 | ------- |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0878-nth-magical-number](https://github.com/thePankaj021/DSA_Practice/tree/master/0878-nth-magical-number) |
 | [0887-super-egg-drop](https://github.com/thePankaj021/DSA_Practice/tree/master/0887-super-egg-drop) |
 | [0891-sum-of-subsequence-widths](https://github.com/thePankaj021/DSA_Practice/tree/master/0891-sum-of-subsequence-widths) |
+| [0899-orderly-queue](https://github.com/thePankaj021/DSA_Practice/tree/master/0899-orderly-queue) |
 ## Matrix
 |  |
 | ------- |
