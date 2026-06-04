@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0850-rectangle-area-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0850-rectangle-area-ii) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/thePankaj021/DSA_Practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/thePankaj021/DSA_Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/thePankaj021/DSA_Practice/tree/master/0864-shortest-path-to-get-all-keys) |
 ## Two Pointers
 |  |
 | ------- |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0782-transform-to-chessboard](https://github.com/thePankaj021/DSA_Practice/tree/master/0782-transform-to-chessboard) |
 | [0803-bricks-falling-when-hit](https://github.com/thePankaj021/DSA_Practice/tree/master/0803-bricks-falling-when-hit) |
 | [0827-making-a-large-island](https://github.com/thePankaj021/DSA_Practice/tree/master/0827-making-a-large-island) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/thePankaj021/DSA_Practice/tree/master/0864-shortest-path-to-get-all-keys) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0839-similar-string-groups](https://github.com/thePankaj021/DSA_Practice/tree/master/0839-similar-string-groups) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/thePankaj021/DSA_Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0854-k-similar-strings](https://github.com/thePankaj021/DSA_Practice/tree/master/0854-k-similar-strings) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/thePankaj021/DSA_Practice/tree/master/0864-shortest-path-to-get-all-keys) |
 ## Trie
 |  |
 | ------- |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0805-split-array-with-same-average](https://github.com/thePankaj021/DSA_Practice/tree/master/0805-split-array-with-same-average) |
 | [0810-chalkboard-xor-game](https://github.com/thePankaj021/DSA_Practice/tree/master/0810-chalkboard-xor-game) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/thePankaj021/DSA_Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/thePankaj021/DSA_Practice/tree/master/0864-shortest-path-to-get-all-keys) |
 ## Bucket Sort
 |  |
 | ------- |
