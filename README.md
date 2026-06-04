@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0818-race-car](https://github.com/thePankaj021/DSA_Practice/tree/master/0818-race-car) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/thePankaj021/DSA_Practice/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0834-sum-of-distances-in-tree](https://github.com/thePankaj021/DSA_Practice/tree/master/0834-sum-of-distances-in-tree) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/thePankaj021/DSA_Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Stack
 |  |
 | ------- |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0815-bus-routes](https://github.com/thePankaj021/DSA_Practice/tree/master/0815-bus-routes) |
 | [0827-making-a-large-island](https://github.com/thePankaj021/DSA_Practice/tree/master/0827-making-a-large-island) |
 | [0839-similar-string-groups](https://github.com/thePankaj021/DSA_Practice/tree/master/0839-similar-string-groups) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/thePankaj021/DSA_Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Trie
 |  |
 | ------- |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0782-transform-to-chessboard](https://github.com/thePankaj021/DSA_Practice/tree/master/0782-transform-to-chessboard) |
 | [0805-split-array-with-same-average](https://github.com/thePankaj021/DSA_Practice/tree/master/0805-split-array-with-same-average) |
 | [0810-chalkboard-xor-game](https://github.com/thePankaj021/DSA_Practice/tree/master/0810-chalkboard-xor-game) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/thePankaj021/DSA_Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -461,11 +464,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0685-redundant-connection-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0685-redundant-connection-ii) |
 | [0834-sum-of-distances-in-tree](https://github.com/thePankaj021/DSA_Practice/tree/master/0834-sum-of-distances-in-tree) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/thePankaj021/DSA_Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Bitmask
 |  |
 | ------- |
 | [0691-stickers-to-spell-word](https://github.com/thePankaj021/DSA_Practice/tree/master/0691-stickers-to-spell-word) |
 | [0805-split-array-with-same-average](https://github.com/thePankaj021/DSA_Practice/tree/master/0805-split-array-with-same-average) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/thePankaj021/DSA_Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Segment Tree
 |  |
 | ------- |
