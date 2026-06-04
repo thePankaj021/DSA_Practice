@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/thePankaj021/DSA_Practice/tree/master/0164-maximum-gap) |
 | [0200-number-of-islands](https://github.com/thePankaj021/DSA_Practice/tree/master/0200-number-of-islands) |
+| [0229-majority-element-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0229-majority-element-ii) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/thePankaj021/DSA_Practice/tree/master/0446-arithmetic-slices-ii-subsequence) |
 ## Two Pointers
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0147-insertion-sort-list](https://github.com/thePankaj021/DSA_Practice/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/thePankaj021/DSA_Practice/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/thePankaj021/DSA_Practice/tree/master/0164-maximum-gap) |
+| [0229-majority-element-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0149-max-points-on-a-line](https://github.com/thePankaj021/DSA_Practice/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/thePankaj021/DSA_Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/thePankaj021/DSA_Practice/tree/master/0187-repeated-dna-sequences) |
+| [0229-majority-element-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0229-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -269,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/thePankaj021/DSA_Practice/tree/master/0200-number-of-islands) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
