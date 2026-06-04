@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0488-zuma-game](https://github.com/thePankaj021/DSA_Practice/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/thePankaj021/DSA_Practice/tree/master/0514-freedom-trail) |
 | [0546-remove-boxes](https://github.com/thePankaj021/DSA_Practice/tree/master/0546-remove-boxes) |
+| [0552-student-attendance-record-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0552-student-attendance-record-ii) |
 ## Stack
 |  |
 | ------- |
