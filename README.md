@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0903-valid-permutations-for-di-sequence](https://github.com/thePankaj021/DSA_Practice/tree/master/0903-valid-permutations-for-di-sequence) |
 | [0906-super-palindromes](https://github.com/thePankaj021/DSA_Practice/tree/master/0906-super-palindromes) |
 | [0936-stamping-the-sequence](https://github.com/thePankaj021/DSA_Practice/tree/master/0936-stamping-the-sequence) |
+| [0940-distinct-subsequences-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0940-distinct-subsequences-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0903-valid-permutations-for-di-sequence](https://github.com/thePankaj021/DSA_Practice/tree/master/0903-valid-permutations-for-di-sequence) |
 | [0913-cat-and-mouse](https://github.com/thePankaj021/DSA_Practice/tree/master/0913-cat-and-mouse) |
 | [0920-number-of-music-playlists](https://github.com/thePankaj021/DSA_Practice/tree/master/0920-number-of-music-playlists) |
+| [0940-distinct-subsequences-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0940-distinct-subsequences-ii) |
 ## Stack
 |  |
 | ------- |
