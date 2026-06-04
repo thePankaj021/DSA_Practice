@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0927-three-equal-parts](https://github.com/thePankaj021/DSA_Practice/tree/master/0927-three-equal-parts) |
 | [0943-find-the-shortest-superstring](https://github.com/thePankaj021/DSA_Practice/tree/master/0943-find-the-shortest-superstring) |
 | [0952-largest-component-size-by-common-factor](https://github.com/thePankaj021/DSA_Practice/tree/master/0952-largest-component-size-by-common-factor) |
+| [0956-tallest-billboard](https://github.com/thePankaj021/DSA_Practice/tree/master/0956-tallest-billboard) |
 ## Two Pointers
 |  |
 | ------- |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0920-number-of-music-playlists](https://github.com/thePankaj021/DSA_Practice/tree/master/0920-number-of-music-playlists) |
 | [0940-distinct-subsequences-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0940-distinct-subsequences-ii) |
 | [0943-find-the-shortest-superstring](https://github.com/thePankaj021/DSA_Practice/tree/master/0943-find-the-shortest-superstring) |
+| [0956-tallest-billboard](https://github.com/thePankaj021/DSA_Practice/tree/master/0956-tallest-billboard) |
 ## Stack
 |  |
 | ------- |
