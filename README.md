@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0304-range-sum-query-2d-immutable](https://github.com/thePankaj021/DSA_Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/thePankaj021/DSA_Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0313-super-ugly-number](https://github.com/thePankaj021/DSA_Practice/tree/master/0313-super-ugly-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/thePankaj021/DSA_Practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/thePankaj021/DSA_Practice/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0472-concatenated-words](https://github.com/thePankaj021/DSA_Practice/tree/master/0472-concatenated-words) |
 | [0480-sliding-window-median](https://github.com/thePankaj021/DSA_Practice/tree/master/0480-sliding-window-median) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0299-bulls-and-cows](https://github.com/thePankaj021/DSA_Practice/tree/master/0299-bulls-and-cows) |
 | [0306-additive-number](https://github.com/thePankaj021/DSA_Practice/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/thePankaj021/DSA_Practice/tree/master/0316-remove-duplicate-letters) |
+| [0318-maximum-product-of-word-lengths](https://github.com/thePankaj021/DSA_Practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0466-count-the-repetitions](https://github.com/thePankaj021/DSA_Practice/tree/master/0466-count-the-repetitions) |
 | [0472-concatenated-words](https://github.com/thePankaj021/DSA_Practice/tree/master/0472-concatenated-words) |
 | [0488-zuma-game](https://github.com/thePankaj021/DSA_Practice/tree/master/0488-zuma-game) |
@@ -635,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0029-divide-two-integers](https://github.com/thePankaj021/DSA_Practice/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/thePankaj021/DSA_Practice/tree/master/0089-gray-code) |
 | [0187-repeated-dna-sequences](https://github.com/thePankaj021/DSA_Practice/tree/master/0187-repeated-dna-sequences) |
+| [0318-maximum-product-of-word-lengths](https://github.com/thePankaj021/DSA_Practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0691-stickers-to-spell-word](https://github.com/thePankaj021/DSA_Practice/tree/master/0691-stickers-to-spell-word) |
 | [0782-transform-to-chessboard](https://github.com/thePankaj021/DSA_Practice/tree/master/0782-transform-to-chessboard) |
 | [0805-split-array-with-same-average](https://github.com/thePankaj021/DSA_Practice/tree/master/0805-split-array-with-same-average) |
