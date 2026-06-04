@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0839-similar-string-groups](https://github.com/thePankaj021/DSA_Practice/tree/master/0839-similar-string-groups) |
 | [0850-rectangle-area-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0850-rectangle-area-ii) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/thePankaj021/DSA_Practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/thePankaj021/DSA_Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0675-cut-off-trees-for-golf-event](https://github.com/thePankaj021/DSA_Practice/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0778-swim-in-rising-water](https://github.com/thePankaj021/DSA_Practice/tree/master/0778-swim-in-rising-water) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/thePankaj021/DSA_Practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/thePankaj021/DSA_Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Merge Sort
 |  |
 | ------- |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0732-my-calendar-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0732-my-calendar-iii) |
 | [0778-swim-in-rising-water](https://github.com/thePankaj021/DSA_Practice/tree/master/0778-swim-in-rising-water) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/thePankaj021/DSA_Practice/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/thePankaj021/DSA_Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Tree
 |  |
 | ------- |
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0480-sliding-window-median](https://github.com/thePankaj021/DSA_Practice/tree/master/0480-sliding-window-median) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/thePankaj021/DSA_Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/thePankaj021/DSA_Practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/thePankaj021/DSA_Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -462,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0304-range-sum-query-2d-immutable](https://github.com/thePankaj021/DSA_Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/thePankaj021/DSA_Practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0732-my-calendar-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0732-my-calendar-iii) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/thePankaj021/DSA_Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Enumeration
 |  |
 | ------- |
@@ -509,4 +514,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0850-rectangle-area-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0850-rectangle-area-ii) |
+## Queue
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/thePankaj021/DSA_Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/thePankaj021/DSA_Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
