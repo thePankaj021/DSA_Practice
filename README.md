@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/thePankaj021/DSA_Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0051-n-queens](https://github.com/thePankaj021/DSA_Practice/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0052-n-queens-ii) |
 ## Linked List
 |  |
 | ------- |
