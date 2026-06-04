@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1425-constrained-subsequence-sum](https://github.com/thePankaj021/DSA_Practice/tree/master/1425-constrained-subsequence-sum) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/thePankaj021/DSA_Practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/thePankaj021/DSA_Practice/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/thePankaj021/DSA_Practice/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1402-reducing-dishes](https://github.com/thePankaj021/DSA_Practice/tree/master/1402-reducing-dishes) |
 | [1425-constrained-subsequence-sum](https://github.com/thePankaj021/DSA_Practice/tree/master/1425-constrained-subsequence-sum) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/thePankaj021/DSA_Practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/thePankaj021/DSA_Practice/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Stack
 |  |
 | ------- |
