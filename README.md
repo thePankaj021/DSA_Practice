@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0016-3sum-closest](https://github.com/thePankaj021/DSA_Practice/tree/master/0016-3sum-closest) |
 | [0143-reorder-list](https://github.com/thePankaj021/DSA_Practice/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/thePankaj021/DSA_Practice/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/thePankaj021/DSA_Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/thePankaj021/DSA_Practice/tree/master/0165-compare-version-numbers) |
 | [0466-count-the-repetitions](https://github.com/thePankaj021/DSA_Practice/tree/master/0466-count-the-repetitions) |
 | [0475-heaters](https://github.com/thePankaj021/DSA_Practice/tree/master/0475-heaters) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0127-word-ladder](https://github.com/thePankaj021/DSA_Practice/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/thePankaj021/DSA_Practice/tree/master/0149-max-points-on-a-line) |
+| [0160-intersection-of-two-linked-lists](https://github.com/thePankaj021/DSA_Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/thePankaj021/DSA_Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/thePankaj021/DSA_Practice/tree/master/0187-repeated-dna-sequences) |
 | [0229-majority-element-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0229-majority-element-ii) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0143-reorder-list](https://github.com/thePankaj021/DSA_Practice/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/thePankaj021/DSA_Practice/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/thePankaj021/DSA_Practice/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/thePankaj021/DSA_Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/thePankaj021/DSA_Practice/tree/master/0237-delete-node-in-a-linked-list) |
 ## Divide and Conquer
 |  |
