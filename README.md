@@ -462,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0227-basic-calculator-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/thePankaj021/DSA_Practice/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/thePankaj021/DSA_Practice/tree/master/0241-different-ways-to-add-parentheses) |
+| [0263-ugly-number](https://github.com/thePankaj021/DSA_Practice/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/thePankaj021/DSA_Practice/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/thePankaj021/DSA_Practice/tree/master/0313-super-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/thePankaj021/DSA_Practice/tree/master/0368-largest-divisible-subset) |
