@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0187-repeated-dna-sequences](https://github.com/thePankaj021/DSA_Practice/tree/master/0187-repeated-dna-sequences) |
 | [0227-basic-calculator-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/thePankaj021/DSA_Practice/tree/master/0241-different-ways-to-add-parentheses) |
+| [0257-binary-tree-paths](https://github.com/thePankaj021/DSA_Practice/tree/master/0257-binary-tree-paths) |
 | [0299-bulls-and-cows](https://github.com/thePankaj021/DSA_Practice/tree/master/0299-bulls-and-cows) |
 | [0306-additive-number](https://github.com/thePankaj021/DSA_Practice/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/thePankaj021/DSA_Practice/tree/master/0316-remove-duplicate-letters) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0095-unique-binary-search-trees-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0113-path-sum-ii) |
 | [0140-word-break-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0140-word-break-ii) |
+| [0257-binary-tree-paths](https://github.com/thePankaj021/DSA_Practice/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/thePankaj021/DSA_Practice/tree/master/0306-additive-number) |
 | [0679-24-game](https://github.com/thePankaj021/DSA_Practice/tree/master/0679-24-game) |
 | [0691-stickers-to-spell-word](https://github.com/thePankaj021/DSA_Practice/tree/master/0691-stickers-to-spell-word) |
@@ -628,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0113-path-sum-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0113-path-sum-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/thePankaj021/DSA_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/thePankaj021/DSA_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/thePankaj021/DSA_Practice/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0337-house-robber-iii) |
 | [0834-sum-of-distances-in-tree](https://github.com/thePankaj021/DSA_Practice/tree/master/0834-sum-of-distances-in-tree) |
 | [0968-binary-tree-cameras](https://github.com/thePankaj021/DSA_Practice/tree/master/0968-binary-tree-cameras) |
@@ -647,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0113-path-sum-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0113-path-sum-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/thePankaj021/DSA_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/thePankaj021/DSA_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/thePankaj021/DSA_Practice/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0337-house-robber-iii) |
 | [0968-binary-tree-cameras](https://github.com/thePankaj021/DSA_Practice/tree/master/0968-binary-tree-cameras) |
 ## Binary Search Tree
@@ -671,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/thePankaj021/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/thePankaj021/DSA_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/thePankaj021/DSA_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/thePankaj021/DSA_Practice/tree/master/0257-binary-tree-paths) |
 | [0310-minimum-height-trees](https://github.com/thePankaj021/DSA_Practice/tree/master/0310-minimum-height-trees) |
 | [0337-house-robber-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0337-house-robber-iii) |
 | [0385-mini-parser](https://github.com/thePankaj021/DSA_Practice/tree/master/0385-mini-parser) |
