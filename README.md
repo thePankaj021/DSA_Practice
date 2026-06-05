@@ -444,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0044-wildcard-matching](https://github.com/thePankaj021/DSA_Practice/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/thePankaj021/DSA_Practice/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/thePankaj021/DSA_Practice/tree/master/0143-reorder-list) |
+| [0231-power-of-two](https://github.com/thePankaj021/DSA_Practice/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/thePankaj021/DSA_Practice/tree/master/0241-different-ways-to-add-parentheses) |
 ## Math
 |  |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0166-fraction-to-recurring-decimal](https://github.com/thePankaj021/DSA_Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0223-rectangle-area](https://github.com/thePankaj021/DSA_Practice/tree/master/0223-rectangle-area) |
 | [0227-basic-calculator-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/thePankaj021/DSA_Practice/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/thePankaj021/DSA_Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/thePankaj021/DSA_Practice/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/thePankaj021/DSA_Practice/tree/master/0313-super-ugly-number) |
@@ -690,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0029-divide-two-integers](https://github.com/thePankaj021/DSA_Practice/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/thePankaj021/DSA_Practice/tree/master/0089-gray-code) |
 | [0187-repeated-dna-sequences](https://github.com/thePankaj021/DSA_Practice/tree/master/0187-repeated-dna-sequences) |
+| [0231-power-of-two](https://github.com/thePankaj021/DSA_Practice/tree/master/0231-power-of-two) |
 | [0318-maximum-product-of-word-lengths](https://github.com/thePankaj021/DSA_Practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0691-stickers-to-spell-word](https://github.com/thePankaj021/DSA_Practice/tree/master/0691-stickers-to-spell-word) |
 | [0782-transform-to-chessboard](https://github.com/thePankaj021/DSA_Practice/tree/master/0782-transform-to-chessboard) |
