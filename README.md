@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/thePankaj021/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0229-majority-element-ii) |
 | [0275-h-index-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0275-h-index-ii) |
+| [0284-peeking-iterator](https://github.com/thePankaj021/DSA_Practice/tree/main/0284-peeking-iterator/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/thePankaj021/DSA_Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/thePankaj021/DSA_Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0313-super-ugly-number](https://github.com/thePankaj021/DSA_Practice/tree/master/0313-super-ugly-number) |
@@ -765,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0284-peeking-iterator](https://github.com/thePankaj021/DSA_Practice/tree/main/0284-peeking-iterator/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/thePankaj021/DSA_Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0535-encode-and-decode-tinyurl](https://github.com/thePankaj021/DSA_Practice/tree/master/0535-encode-and-decode-tinyurl) |
 | [0715-range-module](https://github.com/thePankaj021/DSA_Practice/tree/master/0715-range-module) |
@@ -906,4 +908,8 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0686-repeated-string-match](https://github.com/thePankaj021/DSA_Practice/tree/main/0686-repeated-string-match/) | Medium |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0284-peeking-iterator](https://github.com/thePankaj021/DSA_Practice/tree/main/0284-peeking-iterator/) | Medium |
 <!---LeetCode Topics End-->
