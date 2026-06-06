@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0187-repeated-dna-sequences](https://github.com/thePankaj021/DSA_Practice/tree/master/0187-repeated-dna-sequences) |
 | [0229-majority-element-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/thePankaj021/DSA_Practice/tree/master/0299-bulls-and-cows) |
+| [0355-design-twitter](https://github.com/thePankaj021/DSA_Practice/tree/main/0355-design-twitter/) | Medium |
 | [0480-sliding-window-median](https://github.com/thePankaj021/DSA_Practice/tree/master/0480-sliding-window-median) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/thePankaj021/DSA_Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/thePankaj021/DSA_Practice/tree/master/0535-encode-and-decode-tinyurl) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0148-sort-list](https://github.com/thePankaj021/DSA_Practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/thePankaj021/DSA_Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/thePankaj021/DSA_Practice/tree/master/0237-delete-node-in-a-linked-list) |
+| [0355-design-twitter](https://github.com/thePankaj021/DSA_Practice/tree/main/0355-design-twitter/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/thePankaj021/DSA_Practice/tree/master/0023-merge-k-sorted-lists) |
+| [0355-design-twitter](https://github.com/thePankaj021/DSA_Practice/tree/main/0355-design-twitter/) | Medium |
 | [0480-sliding-window-median](https://github.com/thePankaj021/DSA_Practice/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/thePankaj021/DSA_Practice/tree/master/0502-ipo) |
 | [0630-course-schedule-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0630-course-schedule-iii) |
@@ -772,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0284-peeking-iterator](https://github.com/thePankaj021/DSA_Practice/tree/main/0284-peeking-iterator/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/thePankaj021/DSA_Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/thePankaj021/DSA_Practice/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [0355-design-twitter](https://github.com/thePankaj021/DSA_Practice/tree/main/0355-design-twitter/) | Medium |
 | [0535-encode-and-decode-tinyurl](https://github.com/thePankaj021/DSA_Practice/tree/master/0535-encode-and-decode-tinyurl) |
 | [0715-range-module](https://github.com/thePankaj021/DSA_Practice/tree/master/0715-range-module) |
 | [0732-my-calendar-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0732-my-calendar-iii) |
