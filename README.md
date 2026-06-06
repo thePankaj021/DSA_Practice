@@ -4,8 +4,8 @@ A collection of LeetCode questions to ace the coding interview!
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0016-3sum-closest](https://github.com/thePankaj021/DSA_Practice/tree/master/0016-3sum-closest) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thePankaj021/DSA_Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/thePankaj021/DSA_Practice/tree/master/0035-search-insert-position) |
@@ -124,8 +124,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/thePankaj021/DSA_Practice/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/thePankaj021/DSA_Practice/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0016-3sum-closest](https://github.com/thePankaj021/DSA_Practice/tree/master/0016-3sum-closest) |
 | [0143-reorder-list](https://github.com/thePankaj021/DSA_Practice/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/thePankaj021/DSA_Practice/tree/master/0148-sort-list) |
@@ -137,8 +137,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0532-k-diff-pairs-in-an-array](https://github.com/thePankaj021/DSA_Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/thePankaj021/DSA_Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0016-3sum-closest](https://github.com/thePankaj021/DSA_Practice/tree/master/0016-3sum-closest) |
 | [0147-insertion-sort-list](https://github.com/thePankaj021/DSA_Practice/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/thePankaj021/DSA_Practice/tree/master/0148-sort-list) |
@@ -167,8 +167,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [1383-maximum-performance-of-a-team](https://github.com/thePankaj021/DSA_Practice/tree/master/1383-maximum-performance-of-a-team) |
 | [1402-reducing-dishes](https://github.com/thePankaj021/DSA_Practice/tree/master/1402-reducing-dishes) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/thePankaj021/DSA_Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/thePankaj021/DSA_Practice/tree/master/0041-first-missing-positive) |
 | [0127-word-ladder](https://github.com/thePankaj021/DSA_Practice/tree/master/0127-word-ladder) |
@@ -205,8 +205,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [1255-maximum-score-words-formed-by-letters](https://github.com/thePankaj021/DSA_Practice/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1345-jump-game-iv](https://github.com/thePankaj021/DSA_Practice/tree/master/1345-jump-game-iv) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/thePankaj021/DSA_Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/thePankaj021/DSA_Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/thePankaj021/DSA_Practice/tree/master/0032-longest-valid-parentheses) |
@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0535-encode-and-decode-tinyurl](https://github.com/thePankaj021/DSA_Practice/tree/master/0535-encode-and-decode-tinyurl) |
 | [0564-find-the-closest-palindrome](https://github.com/thePankaj021/DSA_Practice/tree/master/0564-find-the-closest-palindrome) |
 | [0664-strange-printer](https://github.com/thePankaj021/DSA_Practice/tree/master/0664-strange-printer) |
+| [0686-repeated-string-match](https://github.com/thePankaj021/DSA_Practice/tree/main/0686-repeated-string-match/) | Medium |
 | [0691-stickers-to-spell-word](https://github.com/thePankaj021/DSA_Practice/tree/master/0691-stickers-to-spell-word) |
 | [0726-number-of-atoms](https://github.com/thePankaj021/DSA_Practice/tree/master/0726-number-of-atoms) |
 | [0730-count-different-palindromic-subsequences](https://github.com/thePankaj021/DSA_Practice/tree/master/0730-count-different-palindromic-subsequences) |
@@ -260,8 +261,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/thePankaj021/DSA_Practice/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/thePankaj021/DSA_Practice/tree/master/1255-maximum-score-words-formed-by-letters) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/thePankaj021/DSA_Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/thePankaj021/DSA_Practice/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/thePankaj021/DSA_Practice/tree/master/0039-combination-sum) |
@@ -283,8 +284,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0996-number-of-squareful-arrays](https://github.com/thePankaj021/DSA_Practice/tree/master/0996-number-of-squareful-arrays) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/thePankaj021/DSA_Practice/tree/master/1255-maximum-score-words-formed-by-letters) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/thePankaj021/DSA_Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/thePankaj021/DSA_Practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/thePankaj021/DSA_Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -295,16 +296,16 @@ A collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/thePankaj021/DSA_Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/thePankaj021/DSA_Practice/tree/master/0237-delete-node-in-a-linked-list) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/thePankaj021/DSA_Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/thePankaj021/DSA_Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/thePankaj021/DSA_Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/thePankaj021/DSA_Practice/tree/master/0148-sort-list) |
 | [0324-wiggle-sort-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0324-wiggle-sort-ii) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/thePankaj021/DSA_Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0480-sliding-window-median](https://github.com/thePankaj021/DSA_Practice/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/thePankaj021/DSA_Practice/tree/master/0502-ipo) |
@@ -321,13 +322,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [1383-maximum-performance-of-a-team](https://github.com/thePankaj021/DSA_Practice/tree/master/1383-maximum-performance-of-a-team) |
 | [1425-constrained-subsequence-sum](https://github.com/thePankaj021/DSA_Practice/tree/master/1425-constrained-subsequence-sum) |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/thePankaj021/DSA_Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/thePankaj021/DSA_Practice/tree/master/0148-sort-list) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0022-generate-parentheses](https://github.com/thePankaj021/DSA_Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/thePankaj021/DSA_Practice/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/thePankaj021/DSA_Practice/tree/master/0044-wildcard-matching) |
@@ -402,8 +403,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/thePankaj021/DSA_Practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/thePankaj021/DSA_Practice/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/thePankaj021/DSA_Practice/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/thePankaj021/DSA_Practice/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/thePankaj021/DSA_Practice/tree/master/0143-reorder-list) |
@@ -418,8 +419,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0936-stamping-the-sequence](https://github.com/thePankaj021/DSA_Practice/tree/master/0936-stamping-the-sequence) |
 | [0975-odd-even-jump](https://github.com/thePankaj021/DSA_Practice/tree/master/0975-odd-even-jump) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0044-wildcard-matching](https://github.com/thePankaj021/DSA_Practice/tree/master/0044-wildcard-matching) |
 | [0135-candy](https://github.com/thePankaj021/DSA_Practice/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/thePankaj021/DSA_Practice/tree/master/0316-remove-duplicate-letters) |
@@ -440,8 +441,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [1383-maximum-performance-of-a-team](https://github.com/thePankaj021/DSA_Practice/tree/master/1383-maximum-performance-of-a-team) |
 | [1402-reducing-dishes](https://github.com/thePankaj021/DSA_Practice/tree/master/1402-reducing-dishes) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/thePankaj021/DSA_Practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/thePankaj021/DSA_Practice/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/thePankaj021/DSA_Practice/tree/master/0060-permutation-sequence) |
@@ -449,8 +450,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/thePankaj021/DSA_Practice/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/thePankaj021/DSA_Practice/tree/master/0241-different-ways-to-add-parentheses) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0029-divide-two-integers](https://github.com/thePankaj021/DSA_Practice/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/thePankaj021/DSA_Practice/tree/master/0060-permutation-sequence) |
 | [0089-gray-code](https://github.com/thePankaj021/DSA_Practice/tree/master/0089-gray-code) |
@@ -498,8 +499,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [1363-largest-multiple-of-three](https://github.com/thePankaj021/DSA_Practice/tree/master/1363-largest-multiple-of-three) |
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/thePankaj021/DSA_Practice/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/thePankaj021/DSA_Practice/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/thePankaj021/DSA_Practice/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/thePankaj021/DSA_Practice/tree/master/0200-number-of-islands) |
@@ -525,15 +526,15 @@ A collection of LeetCode questions to ace the coding interview!
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/thePankaj021/DSA_Practice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/thePankaj021/DSA_Practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/thePankaj021/DSA_Practice/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/thePankaj021/DSA_Practice/tree/master/0316-remove-duplicate-letters) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0975-odd-even-jump](https://github.com/thePankaj021/DSA_Practice/tree/master/0975-odd-even-jump) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/thePankaj021/DSA_Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/thePankaj021/DSA_Practice/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -563,16 +564,16 @@ A collection of LeetCode questions to ace the coding interview!
 | [1345-jump-game-iv](https://github.com/thePankaj021/DSA_Practice/tree/master/1345-jump-game-iv) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/thePankaj021/DSA_Practice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0140-word-break-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0140-word-break-ii) |
 | [0472-concatenated-words](https://github.com/thePankaj021/DSA_Practice/tree/master/0472-concatenated-words) |
 | [0745-prefix-and-suffix-search](https://github.com/thePankaj021/DSA_Practice/tree/master/0745-prefix-and-suffix-search) |
 | [1032-stream-of-characters](https://github.com/thePankaj021/DSA_Practice/tree/master/1032-stream-of-characters) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/thePankaj021/DSA_Practice/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0140-word-break-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/thePankaj021/DSA_Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0488-zuma-game](https://github.com/thePankaj021/DSA_Practice/tree/master/0488-zuma-game) |
@@ -583,15 +584,15 @@ A collection of LeetCode questions to ace the coding interview!
 | [0964-least-operators-to-express-number](https://github.com/thePankaj021/DSA_Practice/tree/master/0964-least-operators-to-express-number) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/thePankaj021/DSA_Practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 ## Geometry
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0149-max-points-on-a-line](https://github.com/thePankaj021/DSA_Practice/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/thePankaj021/DSA_Practice/tree/master/0223-rectangle-area) |
 | [0587-erect-the-fence](https://github.com/thePankaj021/DSA_Practice/tree/master/0587-erect-the-fence) |
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/thePankaj021/DSA_Practice/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thePankaj021/DSA_Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/thePankaj021/DSA_Practice/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -616,8 +617,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [1187-make-array-strictly-increasing](https://github.com/thePankaj021/DSA_Practice/tree/master/1187-make-array-strictly-increasing) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/thePankaj021/DSA_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/thePankaj021/DSA_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/thePankaj021/DSA_Practice/tree/master/0098-validate-binary-search-tree) |
@@ -636,8 +637,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0834-sum-of-distances-in-tree](https://github.com/thePankaj021/DSA_Practice/tree/master/0834-sum-of-distances-in-tree) |
 | [0968-binary-tree-cameras](https://github.com/thePankaj021/DSA_Practice/tree/master/0968-binary-tree-cameras) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/thePankaj021/DSA_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/thePankaj021/DSA_Practice/tree/master/0098-validate-binary-search-tree) |
@@ -655,8 +656,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0337-house-robber-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0337-house-robber-iii) |
 | [0968-binary-tree-cameras](https://github.com/thePankaj021/DSA_Practice/tree/master/0968-binary-tree-cameras) |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/thePankaj021/DSA_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/thePankaj021/DSA_Practice/tree/master/0098-validate-binary-search-tree) |
@@ -666,8 +667,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/thePankaj021/DSA_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/thePankaj021/DSA_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/thePankaj021/DSA_Practice/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/thePankaj021/DSA_Practice/tree/master/0099-recover-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/thePankaj021/DSA_Practice/tree/master/0110-balanced-binary-tree) |
@@ -693,8 +694,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0968-binary-tree-cameras](https://github.com/thePankaj021/DSA_Practice/tree/master/0968-binary-tree-cameras) |
 | [1036-escape-a-large-maze](https://github.com/thePankaj021/DSA_Practice/tree/master/1036-escape-a-large-maze) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0029-divide-two-integers](https://github.com/thePankaj021/DSA_Practice/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/thePankaj021/DSA_Practice/tree/master/0089-gray-code) |
 | [0187-repeated-dna-sequences](https://github.com/thePankaj021/DSA_Practice/tree/master/0187-repeated-dna-sequences) |
@@ -716,16 +717,16 @@ A collection of LeetCode questions to ace the coding interview!
 | [1255-maximum-score-words-formed-by-letters](https://github.com/thePankaj021/DSA_Practice/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1349-maximum-students-taking-exam](https://github.com/thePankaj021/DSA_Practice/tree/master/1349-maximum-students-taking-exam) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0164-maximum-gap](https://github.com/thePankaj021/DSA_Practice/tree/master/0164-maximum-gap) |
 ## Radix Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0164-maximum-gap](https://github.com/thePankaj021/DSA_Practice/tree/master/0164-maximum-gap) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/thePankaj021/DSA_Practice/tree/master/0187-repeated-dna-sequences) |
 | [0480-sliding-window-median](https://github.com/thePankaj021/DSA_Practice/tree/master/0480-sliding-window-median) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/thePankaj021/DSA_Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -735,17 +736,17 @@ A collection of LeetCode questions to ace the coding interview!
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/thePankaj021/DSA_Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1425-constrained-subsequence-sum](https://github.com/thePankaj021/DSA_Practice/tree/master/1425-constrained-subsequence-sum) |
 ## Rolling Hash
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/thePankaj021/DSA_Practice/tree/master/0187-repeated-dna-sequences) |
 ## Hash Function
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/thePankaj021/DSA_Practice/tree/master/0187-repeated-dna-sequences) |
 | [0535-encode-and-decode-tinyurl](https://github.com/thePankaj021/DSA_Practice/tree/master/0535-encode-and-decode-tinyurl) |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0200-number-of-islands](https://github.com/thePankaj021/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0685-redundant-connection-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0685-redundant-connection-ii) |
 | [0778-swim-in-rising-water](https://github.com/thePankaj021/DSA_Practice/tree/master/0778-swim-in-rising-water) |
@@ -755,15 +756,15 @@ A collection of LeetCode questions to ace the coding interview!
 | [0924-minimize-malware-spread](https://github.com/thePankaj021/DSA_Practice/tree/master/0924-minimize-malware-spread) |
 | [0952-largest-component-size-by-common-factor](https://github.com/thePankaj021/DSA_Practice/tree/master/0952-largest-component-size-by-common-factor) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0229-majority-element-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/thePankaj021/DSA_Practice/tree/master/0299-bulls-and-cows) |
 | [0992-subarrays-with-k-different-integers](https://github.com/thePankaj021/DSA_Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/thePankaj021/DSA_Practice/tree/master/1255-maximum-score-words-formed-by-letters) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/thePankaj021/DSA_Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0535-encode-and-decode-tinyurl](https://github.com/thePankaj021/DSA_Practice/tree/master/0535-encode-and-decode-tinyurl) |
 | [0715-range-module](https://github.com/thePankaj021/DSA_Practice/tree/master/0715-range-module) |
@@ -773,8 +774,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [1032-stream-of-characters](https://github.com/thePankaj021/DSA_Practice/tree/master/1032-stream-of-characters) |
 | [1157-online-majority-element-in-subarray](https://github.com/thePankaj021/DSA_Practice/tree/master/1157-online-majority-element-in-subarray) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/thePankaj021/DSA_Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/thePankaj021/DSA_Practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/thePankaj021/DSA_Practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -786,14 +787,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/thePankaj021/DSA_Practice/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/thePankaj021/DSA_Practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0479-largest-palindrome-product](https://github.com/thePankaj021/DSA_Practice/tree/master/0479-largest-palindrome-product) |
 | [0829-consecutive-numbers-sum](https://github.com/thePankaj021/DSA_Practice/tree/master/0829-consecutive-numbers-sum) |
 | [0906-super-palindromes](https://github.com/thePankaj021/DSA_Practice/tree/master/0906-super-palindromes) |
 ## Graph Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0310-minimum-height-trees](https://github.com/thePankaj021/DSA_Practice/tree/master/0310-minimum-height-trees) |
 | [0685-redundant-connection-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0685-redundant-connection-ii) |
 | [0834-sum-of-distances-in-tree](https://github.com/thePankaj021/DSA_Practice/tree/master/0834-sum-of-distances-in-tree) |
@@ -804,8 +805,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/thePankaj021/DSA_Practice/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/thePankaj021/DSA_Practice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Bitmask
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0691-stickers-to-spell-word](https://github.com/thePankaj021/DSA_Practice/tree/master/0691-stickers-to-spell-word) |
 | [0805-split-array-with-same-average](https://github.com/thePankaj021/DSA_Practice/tree/master/0805-split-array-with-same-average) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/thePankaj021/DSA_Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
@@ -815,16 +816,16 @@ A collection of LeetCode questions to ace the coding interview!
 | [1255-maximum-score-words-formed-by-letters](https://github.com/thePankaj021/DSA_Practice/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1349-maximum-students-taking-exam](https://github.com/thePankaj021/DSA_Practice/tree/master/1349-maximum-students-taking-exam) |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0699-falling-squares](https://github.com/thePankaj021/DSA_Practice/tree/master/0699-falling-squares) |
 | [0715-range-module](https://github.com/thePankaj021/DSA_Practice/tree/master/0715-range-module) |
 | [0732-my-calendar-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0732-my-calendar-iii) |
 | [0850-rectangle-area-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0850-rectangle-area-ii) |
 | [1157-online-majority-element-in-subarray](https://github.com/thePankaj021/DSA_Practice/tree/master/1157-online-majority-element-in-subarray) |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/thePankaj021/DSA_Practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0699-falling-squares](https://github.com/thePankaj021/DSA_Practice/tree/master/0699-falling-squares) |
 | [0715-range-module](https://github.com/thePankaj021/DSA_Practice/tree/master/0715-range-module) |
@@ -833,72 +834,76 @@ A collection of LeetCode questions to ace the coding interview!
 | [0895-maximum-frequency-stack](https://github.com/thePankaj021/DSA_Practice/tree/master/0895-maximum-frequency-stack) |
 | [0975-odd-even-jump](https://github.com/thePankaj021/DSA_Practice/tree/master/0975-odd-even-jump) |
 ## Randomized
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/thePankaj021/DSA_Practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0710-random-pick-with-blacklist](https://github.com/thePankaj021/DSA_Practice/tree/master/0710-random-pick-with-blacklist) |
 ## Brainteaser
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0810-chalkboard-xor-game](https://github.com/thePankaj021/DSA_Practice/tree/master/0810-chalkboard-xor-game) |
 ## Game Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0810-chalkboard-xor-game](https://github.com/thePankaj021/DSA_Practice/tree/master/0810-chalkboard-xor-game) |
 | [0913-cat-and-mouse](https://github.com/thePankaj021/DSA_Practice/tree/master/0913-cat-and-mouse) |
 ## Sweep Line
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0850-rectangle-area-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0850-rectangle-area-ii) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/thePankaj021/DSA_Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0936-stamping-the-sequence](https://github.com/thePankaj021/DSA_Practice/tree/master/0936-stamping-the-sequence) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/thePankaj021/DSA_Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1425-constrained-subsequence-sum](https://github.com/thePankaj021/DSA_Practice/tree/master/1425-constrained-subsequence-sum) |
 ## Monotonic Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/thePankaj021/DSA_Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1425-constrained-subsequence-sum](https://github.com/thePankaj021/DSA_Practice/tree/master/1425-constrained-subsequence-sum) |
 ## Shortest Path
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/thePankaj021/DSA_Practice/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/thePankaj021/DSA_Practice/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Topological Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0310-minimum-height-trees](https://github.com/thePankaj021/DSA_Practice/tree/master/0310-minimum-height-trees) |
 | [0913-cat-and-mouse](https://github.com/thePankaj021/DSA_Practice/tree/master/0913-cat-and-mouse) |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0920-number-of-music-playlists](https://github.com/thePankaj021/DSA_Practice/tree/master/0920-number-of-music-playlists) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0952-largest-component-size-by-common-factor](https://github.com/thePankaj021/DSA_Practice/tree/master/0952-largest-component-size-by-common-factor) |
 | [1250-check-if-it-is-a-good-array](https://github.com/thePankaj021/DSA_Practice/tree/master/1250-check-if-it-is-a-good-array) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0749-contain-virus](https://github.com/thePankaj021/DSA_Practice/tree/master/0749-contain-virus) |
 ## Data Stream
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1032-stream-of-characters](https://github.com/thePankaj021/DSA_Practice/tree/master/1032-stream-of-characters) |
 ## Binary Indexed Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1157-online-majority-element-in-subarray](https://github.com/thePankaj021/DSA_Practice/tree/master/1157-online-majority-element-in-subarray) |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0324-wiggle-sort-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0324-wiggle-sort-ii) |
 ## Reservoir Sampling
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/thePankaj021/DSA_Practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0686-repeated-string-match](https://github.com/thePankaj021/DSA_Practice/tree/main/0686-repeated-string-match/) | Medium |
 <!---LeetCode Topics End-->
