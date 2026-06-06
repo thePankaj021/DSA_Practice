@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0275-h-index-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0275-h-index-ii) |
 | [0284-peeking-iterator](https://github.com/thePankaj021/DSA_Practice/tree/main/0284-peeking-iterator/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/thePankaj021/DSA_Practice/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/thePankaj021/DSA_Practice/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/thePankaj021/DSA_Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0313-super-ugly-number](https://github.com/thePankaj021/DSA_Practice/tree/master/0313-super-ugly-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/thePankaj021/DSA_Practice/tree/master/0318-maximum-product-of-word-lengths) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/thePankaj021/DSA_Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/thePankaj021/DSA_Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/thePankaj021/DSA_Practice/tree/master/0148-sort-list) |
+| [0307-range-sum-query-mutable](https://github.com/thePankaj021/DSA_Practice/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0324-wiggle-sort-ii) |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -768,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0284-peeking-iterator](https://github.com/thePankaj021/DSA_Practice/tree/main/0284-peeking-iterator/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/thePankaj021/DSA_Practice/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/thePankaj021/DSA_Practice/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0535-encode-and-decode-tinyurl](https://github.com/thePankaj021/DSA_Practice/tree/master/0535-encode-and-decode-tinyurl) |
 | [0715-range-module](https://github.com/thePankaj021/DSA_Practice/tree/master/0715-range-module) |
 | [0732-my-calendar-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0732-my-calendar-iii) |
@@ -820,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/thePankaj021/DSA_Practice/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0699-falling-squares](https://github.com/thePankaj021/DSA_Practice/tree/master/0699-falling-squares) |
 | [0715-range-module](https://github.com/thePankaj021/DSA_Practice/tree/master/0715-range-module) |
 | [0732-my-calendar-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0732-my-calendar-iii) |
@@ -895,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/thePankaj021/DSA_Practice/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [1157-online-majority-element-in-subarray](https://github.com/thePankaj021/DSA_Practice/tree/master/1157-online-majority-element-in-subarray) |
 ## Quickselect
 | Problem Name | Difficulty |
