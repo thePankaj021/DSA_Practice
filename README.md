@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/thePankaj021/DSA_Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/thePankaj021/DSA_Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0355-design-twitter](https://github.com/thePankaj021/DSA_Practice/tree/main/0355-design-twitter/) | Medium |
+| [0382-linked-list-random-node](https://github.com/thePankaj021/DSA_Practice/tree/main/0382-linked-list-random-node/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0313-super-ugly-number](https://github.com/thePankaj021/DSA_Practice/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/thePankaj021/DSA_Practice/tree/main/0319-bulb-switcher/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/thePankaj021/DSA_Practice/tree/master/0368-largest-divisible-subset) |
+| [0382-linked-list-random-node](https://github.com/thePankaj021/DSA_Practice/tree/main/0382-linked-list-random-node/) | Medium |
 | [0479-largest-palindrome-product](https://github.com/thePankaj021/DSA_Practice/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/thePankaj021/DSA_Practice/tree/master/0483-smallest-good-base) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/thePankaj021/DSA_Practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
@@ -847,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Randomized
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0382-linked-list-random-node](https://github.com/thePankaj021/DSA_Practice/tree/main/0382-linked-list-random-node/) | Medium |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/thePankaj021/DSA_Practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0710-random-pick-with-blacklist](https://github.com/thePankaj021/DSA_Practice/tree/master/0710-random-pick-with-blacklist) |
 ## Brainteaser
@@ -914,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Reservoir Sampling
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0382-linked-list-random-node](https://github.com/thePankaj021/DSA_Practice/tree/main/0382-linked-list-random-node/) | Medium |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/thePankaj021/DSA_Practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## String Matching
 | Problem Name | Difficulty |
