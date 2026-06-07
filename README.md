@@ -646,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/thePankaj021/DSA_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/thePankaj021/DSA_Practice/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0337-house-robber-iii) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/thePankaj021/DSA_Practice/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0834-sum-of-distances-in-tree](https://github.com/thePankaj021/DSA_Practice/tree/master/0834-sum-of-distances-in-tree) |
 | [0968-binary-tree-cameras](https://github.com/thePankaj021/DSA_Practice/tree/master/0968-binary-tree-cameras) |
 ## Binary Tree
@@ -666,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/thePankaj021/DSA_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/thePankaj021/DSA_Practice/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/thePankaj021/DSA_Practice/tree/master/0337-house-robber-iii) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/thePankaj021/DSA_Practice/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0968-binary-tree-cameras](https://github.com/thePankaj021/DSA_Practice/tree/master/0968-binary-tree-cameras) |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -678,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/thePankaj021/DSA_Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/thePankaj021/DSA_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/thePankaj021/DSA_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/thePankaj021/DSA_Practice/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -695,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0385-mini-parser](https://github.com/thePankaj021/DSA_Practice/tree/master/0385-mini-parser) |
 | [0419-battleships-in-a-board](https://github.com/thePankaj021/DSA_Practice/tree/master/0419-battleships-in-a-board) |
 | [0472-concatenated-words](https://github.com/thePankaj021/DSA_Practice/tree/master/0472-concatenated-words) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/thePankaj021/DSA_Practice/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0514-freedom-trail](https://github.com/thePankaj021/DSA_Practice/tree/master/0514-freedom-trail) |
 | [0685-redundant-connection-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0685-redundant-connection-ii) |
 | [0749-contain-virus](https://github.com/thePankaj021/DSA_Practice/tree/master/0749-contain-virus) |
