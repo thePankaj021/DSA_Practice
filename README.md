@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0475-heaters](https://github.com/thePankaj021/DSA_Practice/tree/master/0475-heaters) |
 | [0480-sliding-window-median](https://github.com/thePankaj021/DSA_Practice/tree/master/0480-sliding-window-median) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/thePankaj021/DSA_Practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0500-keyboard-row](https://github.com/thePankaj021/DSA_Practice/tree/main/0500-keyboard-row/) | Easy |
 | [0502-ipo](https://github.com/thePankaj021/DSA_Practice/tree/master/0502-ipo) |
 | [0517-super-washing-machines](https://github.com/thePankaj021/DSA_Practice/tree/master/0517-super-washing-machines) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/thePankaj021/DSA_Practice/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0299-bulls-and-cows](https://github.com/thePankaj021/DSA_Practice/tree/master/0299-bulls-and-cows) |
 | [0355-design-twitter](https://github.com/thePankaj021/DSA_Practice/tree/main/0355-design-twitter/) | Medium |
 | [0480-sliding-window-median](https://github.com/thePankaj021/DSA_Practice/tree/master/0480-sliding-window-median) |
+| [0500-keyboard-row](https://github.com/thePankaj021/DSA_Practice/tree/main/0500-keyboard-row/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/thePankaj021/DSA_Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/thePankaj021/DSA_Practice/tree/master/0535-encode-and-decode-tinyurl) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/thePankaj021/DSA_Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0474-ones-and-zeroes](https://github.com/thePankaj021/DSA_Practice/tree/master/0474-ones-and-zeroes) |
 | [0481-magical-string](https://github.com/thePankaj021/DSA_Practice/tree/master/0481-magical-string) |
 | [0488-zuma-game](https://github.com/thePankaj021/DSA_Practice/tree/master/0488-zuma-game) |
+| [0500-keyboard-row](https://github.com/thePankaj021/DSA_Practice/tree/main/0500-keyboard-row/) | Easy |
 | [0514-freedom-trail](https://github.com/thePankaj021/DSA_Practice/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/thePankaj021/DSA_Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0535-encode-and-decode-tinyurl](https://github.com/thePankaj021/DSA_Practice/tree/master/0535-encode-and-decode-tinyurl) |
