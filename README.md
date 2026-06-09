@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0475-heaters](https://github.com/thePankaj021/DSA_Practice/tree/master/0475-heaters) |
 | [0480-sliding-window-median](https://github.com/thePankaj021/DSA_Practice/tree/master/0480-sliding-window-median) |
 | [0491-non-decreasing-subsequences](https://github.com/thePankaj021/DSA_Practice/tree/main/0491-non-decreasing-subsequences/) | Medium |
+| [0494-target-sum](https://github.com/thePankaj021/DSA_Practice/tree/main/0494-target-sum/) | Medium |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/thePankaj021/DSA_Practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0500-keyboard-row](https://github.com/thePankaj021/DSA_Practice/tree/main/0500-keyboard-row/) | Easy |
 | [0502-ipo](https://github.com/thePankaj021/DSA_Practice/tree/master/0502-ipo) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0257-binary-tree-paths](https://github.com/thePankaj021/DSA_Practice/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/thePankaj021/DSA_Practice/tree/master/0306-additive-number) |
 | [0491-non-decreasing-subsequences](https://github.com/thePankaj021/DSA_Practice/tree/main/0491-non-decreasing-subsequences/) | Medium |
+| [0494-target-sum](https://github.com/thePankaj021/DSA_Practice/tree/main/0494-target-sum/) | Medium |
 | [0679-24-game](https://github.com/thePankaj021/DSA_Practice/tree/master/0679-24-game) |
 | [0691-stickers-to-spell-word](https://github.com/thePankaj021/DSA_Practice/tree/master/0691-stickers-to-spell-word) |
 | [0773-sliding-puzzle](https://github.com/thePankaj021/DSA_Practice/tree/master/0773-sliding-puzzle) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0472-concatenated-words](https://github.com/thePankaj021/DSA_Practice/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/thePankaj021/DSA_Practice/tree/master/0474-ones-and-zeroes) |
 | [0488-zuma-game](https://github.com/thePankaj021/DSA_Practice/tree/master/0488-zuma-game) |
+| [0494-target-sum](https://github.com/thePankaj021/DSA_Practice/tree/main/0494-target-sum/) | Medium |
 | [0514-freedom-trail](https://github.com/thePankaj021/DSA_Practice/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/thePankaj021/DSA_Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/thePankaj021/DSA_Practice/tree/master/0542-01-matrix) |
