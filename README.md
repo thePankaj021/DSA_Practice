@@ -496,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0492-construct-the-rectangle](https://github.com/thePankaj021/DSA_Practice/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/thePankaj021/DSA_Practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0504-base-7](https://github.com/thePankaj021/DSA_Practice/tree/main/0504-base-7/) | Easy |
+| [0507-perfect-number](https://github.com/thePankaj021/DSA_Practice/tree/main/0507-perfect-number/) | Easy |
 | [0564-find-the-closest-palindrome](https://github.com/thePankaj021/DSA_Practice/tree/master/0564-find-the-closest-palindrome) |
 | [0587-erect-the-fence](https://github.com/thePankaj021/DSA_Practice/tree/master/0587-erect-the-fence) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/thePankaj021/DSA_Practice/tree/master/0668-kth-smallest-number-in-multiplication-table) |
