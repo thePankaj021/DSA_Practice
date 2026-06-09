@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0494-target-sum](https://github.com/thePankaj021/DSA_Practice/tree/main/0494-target-sum/) | Medium |
 | [0495-teemo-attacking](https://github.com/thePankaj021/DSA_Practice/tree/main/0495-teemo-attacking/) | Easy |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/thePankaj021/DSA_Practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0498-diagonal-traverse](https://github.com/thePankaj021/DSA_Practice/tree/main/0498-diagonal-traverse/) | Medium |
 | [0500-keyboard-row](https://github.com/thePankaj021/DSA_Practice/tree/main/0500-keyboard-row/) | Easy |
 | [0502-ipo](https://github.com/thePankaj021/DSA_Practice/tree/master/0502-ipo) |
 | [0517-super-washing-machines](https://github.com/thePankaj021/DSA_Practice/tree/master/0517-super-washing-machines) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/thePankaj021/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/thePankaj021/DSA_Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0419-battleships-in-a-board](https://github.com/thePankaj021/DSA_Practice/tree/master/0419-battleships-in-a-board) |
+| [0498-diagonal-traverse](https://github.com/thePankaj021/DSA_Practice/tree/main/0498-diagonal-traverse/) | Medium |
 | [0542-01-matrix](https://github.com/thePankaj021/DSA_Practice/tree/master/0542-01-matrix) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/thePankaj021/DSA_Practice/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0741-cherry-pickup](https://github.com/thePankaj021/DSA_Practice/tree/master/0741-cherry-pickup) |
@@ -919,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0495-teemo-attacking](https://github.com/thePankaj021/DSA_Practice/tree/main/0495-teemo-attacking/) | Easy |
+| [0498-diagonal-traverse](https://github.com/thePankaj021/DSA_Practice/tree/main/0498-diagonal-traverse/) | Medium |
 | [0749-contain-virus](https://github.com/thePankaj021/DSA_Practice/tree/master/0749-contain-virus) |
 ## Data Stream
 | Problem Name | Difficulty |
