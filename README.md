@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0480-sliding-window-median](https://github.com/thePankaj021/DSA_Practice/tree/master/0480-sliding-window-median) |
 | [0491-non-decreasing-subsequences](https://github.com/thePankaj021/DSA_Practice/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0494-target-sum](https://github.com/thePankaj021/DSA_Practice/tree/main/0494-target-sum/) | Medium |
+| [0495-teemo-attacking](https://github.com/thePankaj021/DSA_Practice/tree/main/0495-teemo-attacking/) | Easy |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/thePankaj021/DSA_Practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0500-keyboard-row](https://github.com/thePankaj021/DSA_Practice/tree/main/0500-keyboard-row/) | Easy |
 | [0502-ipo](https://github.com/thePankaj021/DSA_Practice/tree/master/0502-ipo) |
@@ -917,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0495-teemo-attacking](https://github.com/thePankaj021/DSA_Practice/tree/main/0495-teemo-attacking/) | Easy |
 | [0749-contain-virus](https://github.com/thePankaj021/DSA_Practice/tree/master/0749-contain-virus) |
 ## Data Stream
 | Problem Name | Difficulty |
