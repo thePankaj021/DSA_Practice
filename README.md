@@ -485,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0382-linked-list-random-node](https://github.com/thePankaj021/DSA_Practice/tree/main/0382-linked-list-random-node/) | Medium |
 | [0479-largest-palindrome-product](https://github.com/thePankaj021/DSA_Practice/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/thePankaj021/DSA_Practice/tree/master/0483-smallest-good-base) |
+| [0492-construct-the-rectangle](https://github.com/thePankaj021/DSA_Practice/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/thePankaj021/DSA_Practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0504-base-7](https://github.com/thePankaj021/DSA_Practice/tree/main/0504-base-7/) | Easy |
 | [0564-find-the-closest-palindrome](https://github.com/thePankaj021/DSA_Practice/tree/master/0564-find-the-closest-palindrome) |
