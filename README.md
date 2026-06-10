@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0472-concatenated-words](https://github.com/thePankaj021/DSA_Practice/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/thePankaj021/DSA_Practice/tree/master/0474-ones-and-zeroes) |
 | [0481-magical-string](https://github.com/thePankaj021/DSA_Practice/tree/master/0481-magical-string) |
+| [0482-license-key-formatting](https://github.com/thePankaj021/DSA_Practice/tree/main/0482-license-key-formatting/) | Easy |
 | [0488-zuma-game](https://github.com/thePankaj021/DSA_Practice/tree/master/0488-zuma-game) |
 | [0500-keyboard-row](https://github.com/thePankaj021/DSA_Practice/tree/main/0500-keyboard-row/) | Easy |
 | [0504-base-7](https://github.com/thePankaj021/DSA_Practice/tree/main/0504-base-7/) | Easy |
