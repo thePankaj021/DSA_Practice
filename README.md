@@ -493,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0319-bulb-switcher](https://github.com/thePankaj021/DSA_Practice/tree/main/0319-bulb-switcher/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/thePankaj021/DSA_Practice/tree/master/0368-largest-divisible-subset) |
 | [0382-linked-list-random-node](https://github.com/thePankaj021/DSA_Practice/tree/main/0382-linked-list-random-node/) | Medium |
+| [0478-generate-random-point-in-a-circle](https://github.com/thePankaj021/DSA_Practice/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
 | [0479-largest-palindrome-product](https://github.com/thePankaj021/DSA_Practice/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/thePankaj021/DSA_Practice/tree/master/0483-smallest-good-base) |
 | [0492-construct-the-rectangle](https://github.com/thePankaj021/DSA_Practice/tree/main/0492-construct-the-rectangle/) | Easy |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0149-max-points-on-a-line](https://github.com/thePankaj021/DSA_Practice/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/thePankaj021/DSA_Practice/tree/master/0223-rectangle-area) |
+| [0478-generate-random-point-in-a-circle](https://github.com/thePankaj021/DSA_Practice/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
 | [0587-erect-the-fence](https://github.com/thePankaj021/DSA_Practice/tree/master/0587-erect-the-fence) |
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/thePankaj021/DSA_Practice/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 ## Binary Search
@@ -878,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0382-linked-list-random-node](https://github.com/thePankaj021/DSA_Practice/tree/main/0382-linked-list-random-node/) | Medium |
+| [0478-generate-random-point-in-a-circle](https://github.com/thePankaj021/DSA_Practice/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/thePankaj021/DSA_Practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0710-random-pick-with-blacklist](https://github.com/thePankaj021/DSA_Practice/tree/master/0710-random-pick-with-blacklist) |
 ## Brainteaser
@@ -957,4 +960,8 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0284-peeking-iterator](https://github.com/thePankaj021/DSA_Practice/tree/main/0284-peeking-iterator/) | Medium |
+## Rejection Sampling
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0478-generate-random-point-in-a-circle](https://github.com/thePankaj021/DSA_Practice/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
 <!---LeetCode Topics End-->
