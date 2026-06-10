@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0474-ones-and-zeroes](https://github.com/thePankaj021/DSA_Practice/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/thePankaj021/DSA_Practice/tree/master/0475-heaters) |
 | [0480-sliding-window-median](https://github.com/thePankaj021/DSA_Practice/tree/master/0480-sliding-window-median) |
+| [0485-max-consecutive-ones](https://github.com/thePankaj021/DSA_Practice/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/thePankaj021/DSA_Practice/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0494-target-sum](https://github.com/thePankaj021/DSA_Practice/tree/main/0494-target-sum/) | Medium |
 | [0495-teemo-attacking](https://github.com/thePankaj021/DSA_Practice/tree/main/0495-teemo-attacking/) | Easy |
