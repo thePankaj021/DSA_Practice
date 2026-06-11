@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0475-heaters](https://github.com/thePankaj021/DSA_Practice/tree/master/0475-heaters) |
 | [0481-magical-string](https://github.com/thePankaj021/DSA_Practice/tree/master/0481-magical-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/thePankaj021/DSA_Practice/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0556-next-greater-element-iii](https://github.com/thePankaj021/DSA_Practice/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/thePankaj021/DSA_Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Sorting
 | Problem Name | Difficulty |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0514-freedom-trail](https://github.com/thePankaj021/DSA_Practice/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/thePankaj021/DSA_Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0535-encode-and-decode-tinyurl](https://github.com/thePankaj021/DSA_Practice/tree/master/0535-encode-and-decode-tinyurl) |
+| [0556-next-greater-element-iii](https://github.com/thePankaj021/DSA_Practice/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0564-find-the-closest-palindrome](https://github.com/thePankaj021/DSA_Practice/tree/master/0564-find-the-closest-palindrome) |
 | [0664-strange-printer](https://github.com/thePankaj021/DSA_Practice/tree/master/0664-strange-printer) |
 | [0686-repeated-string-match](https://github.com/thePankaj021/DSA_Practice/tree/main/0686-repeated-string-match/) | Medium |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0504-base-7](https://github.com/thePankaj021/DSA_Practice/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/thePankaj021/DSA_Practice/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/thePankaj021/DSA_Practice/tree/main/0509-fibonacci-number/) | Easy |
+| [0556-next-greater-element-iii](https://github.com/thePankaj021/DSA_Practice/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0564-find-the-closest-palindrome](https://github.com/thePankaj021/DSA_Practice/tree/master/0564-find-the-closest-palindrome) |
 | [0587-erect-the-fence](https://github.com/thePankaj021/DSA_Practice/tree/master/0587-erect-the-fence) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/thePankaj021/DSA_Practice/tree/master/0668-kth-smallest-number-in-multiplication-table) |
