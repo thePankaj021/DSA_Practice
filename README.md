@@ -536,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/thePankaj021/DSA_Practice/tree/master/1330-reverse-subarray-to-maximize-array-value) |
 | [1363-largest-multiple-of-three](https://github.com/thePankaj021/DSA_Practice/tree/master/1363-largest-multiple-of-three) |
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/thePankaj021/DSA_Practice/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/thePankaj021/DSA_Practice/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -678,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0501-find-mode-in-binary-search-tree](https://github.com/thePankaj021/DSA_Practice/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0834-sum-of-distances-in-tree](https://github.com/thePankaj021/DSA_Practice/tree/master/0834-sum-of-distances-in-tree) |
 | [0968-binary-tree-cameras](https://github.com/thePankaj021/DSA_Practice/tree/master/0968-binary-tree-cameras) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/thePankaj021/DSA_Practice/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -738,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0924-minimize-malware-spread](https://github.com/thePankaj021/DSA_Practice/tree/master/0924-minimize-malware-spread) |
 | [0968-binary-tree-cameras](https://github.com/thePankaj021/DSA_Practice/tree/master/0968-binary-tree-cameras) |
 | [1036-escape-a-large-maze](https://github.com/thePankaj021/DSA_Practice/tree/master/1036-escape-a-large-maze) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/thePankaj021/DSA_Practice/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
