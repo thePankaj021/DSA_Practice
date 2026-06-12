@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/thePankaj021/DSA_Practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/thePankaj021/DSA_Practice/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/thePankaj021/DSA_Practice/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/thePankaj021/DSA_Practice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1425-constrained-subsequence-sum](https://github.com/thePankaj021/DSA_Practice/tree/master/1425-constrained-subsequence-sum) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/thePankaj021/DSA_Practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/thePankaj021/DSA_Practice/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/thePankaj021/DSA_Practice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1363-largest-multiple-of-three](https://github.com/thePankaj021/DSA_Practice/tree/master/1363-largest-multiple-of-three) |
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/thePankaj021/DSA_Practice/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/thePankaj021/DSA_Practice/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/thePankaj021/DSA_Practice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -680,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0834-sum-of-distances-in-tree](https://github.com/thePankaj021/DSA_Practice/tree/master/0834-sum-of-distances-in-tree) |
 | [0968-binary-tree-cameras](https://github.com/thePankaj021/DSA_Practice/tree/master/0968-binary-tree-cameras) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/thePankaj021/DSA_Practice/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/thePankaj021/DSA_Practice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -741,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0968-binary-tree-cameras](https://github.com/thePankaj021/DSA_Practice/tree/master/0968-binary-tree-cameras) |
 | [1036-escape-a-large-maze](https://github.com/thePankaj021/DSA_Practice/tree/master/1036-escape-a-large-maze) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/thePankaj021/DSA_Practice/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/thePankaj021/DSA_Practice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -765,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/thePankaj021/DSA_Practice/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/thePankaj021/DSA_Practice/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1349-maximum-students-taking-exam](https://github.com/thePankaj021/DSA_Practice/tree/master/1349-maximum-students-taking-exam) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/thePankaj021/DSA_Practice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
