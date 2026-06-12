@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0164-maximum-gap](https://github.com/thePankaj021/DSA_Practice/tree/master/0164-maximum-gap) |
 | [0200-number-of-islands](https://github.com/thePankaj021/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/thePankaj021/DSA_Practice/tree/main/0268-missing-number/) | Easy |
 | [0275-h-index-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0275-h-index-ii) |
 | [0284-peeking-iterator](https://github.com/thePankaj021/DSA_Practice/tree/main/0284-peeking-iterator/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/thePankaj021/DSA_Practice/tree/master/0304-range-sum-query-2d-immutable) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0148-sort-list](https://github.com/thePankaj021/DSA_Practice/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/thePankaj021/DSA_Practice/tree/master/0164-maximum-gap) |
 | [0229-majority-element-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/thePankaj021/DSA_Practice/tree/main/0268-missing-number/) | Easy |
 | [0324-wiggle-sort-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0324-wiggle-sort-ii) |
 | [0368-largest-divisible-subset](https://github.com/thePankaj021/DSA_Practice/tree/master/0368-largest-divisible-subset) |
 | [0472-concatenated-words](https://github.com/thePankaj021/DSA_Practice/tree/master/0472-concatenated-words) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0166-fraction-to-recurring-decimal](https://github.com/thePankaj021/DSA_Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/thePankaj021/DSA_Practice/tree/master/0187-repeated-dna-sequences) |
 | [0229-majority-element-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/thePankaj021/DSA_Practice/tree/main/0268-missing-number/) | Easy |
 | [0299-bulls-and-cows](https://github.com/thePankaj021/DSA_Practice/tree/master/0299-bulls-and-cows) |
 | [0355-design-twitter](https://github.com/thePankaj021/DSA_Practice/tree/main/0355-design-twitter/) | Medium |
 | [0480-sliding-window-median](https://github.com/thePankaj021/DSA_Practice/tree/master/0480-sliding-window-median) |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/thePankaj021/DSA_Practice/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/thePankaj021/DSA_Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/thePankaj021/DSA_Practice/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/thePankaj021/DSA_Practice/tree/main/0268-missing-number/) | Easy |
 | [0279-perfect-squares](https://github.com/thePankaj021/DSA_Practice/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/thePankaj021/DSA_Practice/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/thePankaj021/DSA_Practice/tree/main/0319-bulb-switcher/) | Medium |
@@ -643,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thePankaj021/DSA_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/thePankaj021/DSA_Practice/tree/main/0268-missing-number/) | Easy |
 | [0275-h-index-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0275-h-index-ii) |
 | [0475-heaters](https://github.com/thePankaj021/DSA_Practice/tree/master/0475-heaters) |
 | [0483-smallest-good-base](https://github.com/thePankaj021/DSA_Practice/tree/master/0483-smallest-good-base) |
@@ -753,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0089-gray-code](https://github.com/thePankaj021/DSA_Practice/tree/master/0089-gray-code) |
 | [0187-repeated-dna-sequences](https://github.com/thePankaj021/DSA_Practice/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/thePankaj021/DSA_Practice/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/thePankaj021/DSA_Practice/tree/main/0268-missing-number/) | Easy |
 | [0318-maximum-product-of-word-lengths](https://github.com/thePankaj021/DSA_Practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0491-non-decreasing-subsequences](https://github.com/thePankaj021/DSA_Practice/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0691-stickers-to-spell-word](https://github.com/thePankaj021/DSA_Practice/tree/master/0691-stickers-to-spell-word) |
