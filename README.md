@@ -501,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0263-ugly-number](https://github.com/thePankaj021/DSA_Practice/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/thePankaj021/DSA_Practice/tree/main/0268-missing-number/) | Easy |
 | [0279-perfect-squares](https://github.com/thePankaj021/DSA_Practice/tree/master/0279-perfect-squares) |
+| [0292-nim-game](https://github.com/thePankaj021/DSA_Practice/tree/main/0292-nim-game/) | Easy |
 | [0313-super-ugly-number](https://github.com/thePankaj021/DSA_Practice/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/thePankaj021/DSA_Practice/tree/main/0319-bulb-switcher/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/thePankaj021/DSA_Practice/tree/master/0368-largest-divisible-subset) |
@@ -909,11 +910,13 @@ A collection of LeetCode questions to ace the coding interview!
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/thePankaj021/DSA_Practice/tree/main/0292-nim-game/) | Easy |
 | [0319-bulb-switcher](https://github.com/thePankaj021/DSA_Practice/tree/main/0319-bulb-switcher/) | Medium |
 | [0810-chalkboard-xor-game](https://github.com/thePankaj021/DSA_Practice/tree/master/0810-chalkboard-xor-game) |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/thePankaj021/DSA_Practice/tree/main/0292-nim-game/) | Easy |
 | [0810-chalkboard-xor-game](https://github.com/thePankaj021/DSA_Practice/tree/master/0810-chalkboard-xor-game) |
 | [0913-cat-and-mouse](https://github.com/thePankaj021/DSA_Practice/tree/master/0913-cat-and-mouse) |
 ## Sweep Line
