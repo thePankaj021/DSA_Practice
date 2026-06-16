@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/thePankaj021/DSA_Practice/tree/main/0268-missing-number/) | Easy |
 | [0275-h-index-ii](https://github.com/thePankaj021/DSA_Practice/tree/master/0275-h-index-ii) |
+| [0283-move-zeroes](https://github.com/thePankaj021/DSA_Practice/tree/main/0283-move-zeroes/) | Easy |
 | [0284-peeking-iterator](https://github.com/thePankaj021/DSA_Practice/tree/main/0284-peeking-iterator/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/thePankaj021/DSA_Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/thePankaj021/DSA_Practice/tree/main/0307-range-sum-query-mutable/) | Medium |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0148-sort-list](https://github.com/thePankaj021/DSA_Practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/thePankaj021/DSA_Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/thePankaj021/DSA_Practice/tree/master/0165-compare-version-numbers) |
+| [0283-move-zeroes](https://github.com/thePankaj021/DSA_Practice/tree/main/0283-move-zeroes/) | Easy |
 | [0466-count-the-repetitions](https://github.com/thePankaj021/DSA_Practice/tree/master/0466-count-the-repetitions) |
 | [0475-heaters](https://github.com/thePankaj021/DSA_Practice/tree/master/0475-heaters) |
 | [0481-magical-string](https://github.com/thePankaj021/DSA_Practice/tree/master/0481-magical-string) |
